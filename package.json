@@ -1,0 +1,15 @@
+{
+  "name": "1000films",
+  "version": "1000.2020.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "author": "nikolaiwarner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikolaiwarner/1000films.git"
+  },
+  "dependencies": {
+    "justwatch-api": "^1.0.7"
+  }
+}

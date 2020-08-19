@@ -1,0 +1,8002 @@
+{
+  "films": [{
+      "title": "CITIZEN KANE",
+      "director": "Orson Welles",
+      "year": 1941,
+      "country": "USA",
+      "length": 119,
+      "color": "BW"
+    },
+    {
+      "title": "VERTIGO",
+      "director": "Alfred Hitchcock",
+      "year": 1958,
+      "country": "USA",
+      "length": 128,
+      "color": "Col"
+    },
+    {
+      "title": "2001: A SPACE ODYSSEY",
+      "director": "Stanley Kubrick",
+      "year": 1968,
+      "country": "UK-USA",
+      "length": 139,
+      "color": "Col"
+    },
+    {
+      "title": "RULES OF THE GAME, THE",
+      "director": "Jean Renoir",
+      "year": 1939,
+      "country": "France",
+      "length": 113,
+      "color": "BW"
+    },
+    {
+      "title": "TOKYO STORY",
+      "director": "Yasujiro Ozu",
+      "year": 1953,
+      "country": "Japan",
+      "length": 134,
+      "color": "BW"
+    },
+    {
+      "title": "8½",
+      "director": "Federico Fellini",
+      "year": 1963,
+      "country": "Italy",
+      "length": 135,
+      "color": "BW"
+    },
+    {
+      "title": "GODFATHER, THE",
+      "director": "Francis Ford Coppola",
+      "year": 1972,
+      "country": "USA",
+      "length": 175,
+      "color": "Col"
+    },
+    {
+      "title": "SUNRISE",
+      "director": "F.W. Murnau",
+      "year": 1927,
+      "country": "USA",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "SEARCHERS, THE",
+      "director": "John Ford",
+      "year": 1956,
+      "country": "USA",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "SEVEN SAMURAI",
+      "director": "Akira Kurosawa",
+      "year": 1954,
+      "country": "Japan",
+      "length": 200,
+      "color": "BW"
+    },
+    {
+      "title": "APOCALYPSE NOW",
+      "director": "Francis Ford Coppola",
+      "year": 1979,
+      "country": "USA",
+      "length": 150,
+      "color": "Col"
+    },
+    {
+      "title": "SINGIN' IN THE RAIN",
+      "director": "Stanley Donen & Gene Kelly",
+      "year": 1952,
+      "country": "USA",
+      "length": 102,
+      "color": "Col"
+    },
+    {
+      "title": "BICYCLE THIEVES",
+      "director": "Vittorio De Sica",
+      "year": 1948,
+      "country": "Italy",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "TAXI DRIVER",
+      "director": "Martin Scorsese",
+      "year": 1976,
+      "country": "USA",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "BATTLESHIP POTEMKIN",
+      "director": "Sergei Eisenstein",
+      "year": 1925,
+      "country": "USSR",
+      "length": 71,
+      "color": "BW"
+    },
+    {
+      "title": "BREATHLESS",
+      "director": "Jean-Luc Godard",
+      "year": 1960,
+      "country": "France",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "PASSION OF JOAN OF ARC, THE",
+      "director": "Carl Theodor Dreyer",
+      "year": 1928,
+      "country": "France",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "ATALANTE, L'",
+      "director": "Jean Vigo",
+      "year": 1934,
+      "country": "France",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "PERSONA",
+      "director": "Ingmar Bergman",
+      "year": 1966,
+      "country": "Sweden",
+      "length": 83,
+      "color": "BW"
+    },
+    {
+      "title": "MAN WITH A MOVIE CAMERA, THE",
+      "director": "Dziga Vertov",
+      "year": 1929,
+      "country": "USSR",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "RASHOMON",
+      "director": "Akira Kurosawa",
+      "year": 1950,
+      "country": "Japan",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "400 BLOWS, THE",
+      "director": "François Truffaut",
+      "year": 1959,
+      "country": "France",
+      "length": 99,
+      "color": "BW"
+    },
+    {
+      "title": "PSYCHO",
+      "director": "Alfred Hitchcock",
+      "year": 1960,
+      "country": "USA",
+      "length": 109,
+      "color": "BW"
+    },
+    {
+      "title": "GODFATHER PART II, THE",
+      "director": "Francis Ford Coppola",
+      "year": 1974,
+      "country": "USA",
+      "length": 200,
+      "color": "Col"
+    },
+    {
+      "title": "RAGING BULL",
+      "director": "Martin Scorsese",
+      "year": 1980,
+      "country": "USA",
+      "length": 128,
+      "color": "BW"
+    },
+    {
+      "title": "SOME LIKE IT HOT",
+      "director": "Billy Wilder",
+      "year": 1959,
+      "country": "USA",
+      "length": 119,
+      "color": "BW"
+    },
+    {
+      "title": "ANDREI RUBLEV",
+      "director": "Andrei Tarkovsky",
+      "year": 1966,
+      "country": "USSR",
+      "length": 185,
+      "color": "Col-BW"
+    },
+    {
+      "title": "CITY LIGHTS",
+      "director": "Charles Chaplin",
+      "year": 1931,
+      "country": "USA",
+      "length": 86,
+      "color": "BW"
+    },
+    {
+      "title": "DOLCE VITA, LA",
+      "director": "Federico Fellini",
+      "year": 1960,
+      "country": "Italy",
+      "length": 175,
+      "color": "BW"
+    },
+    {
+      "title": "MIRROR, THE",
+      "director": "Andrei Tarkovsky",
+      "year": 1975,
+      "country": "USSR",
+      "length": 108,
+      "color": "Col-BW"
+    },
+    {
+      "title": "TOUCH OF EVIL",
+      "director": "Orson Welles",
+      "year": 1958,
+      "country": "USA",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "ORDET",
+      "director": "Carl Theodor Dreyer",
+      "year": 1955,
+      "country": "Denmark",
+      "length": 125,
+      "color": "BW"
+    },
+    {
+      "title": "LAWRENCE OF ARABIA",
+      "director": "David Lean",
+      "year": 1962,
+      "country": "UK",
+      "length": 216,
+      "color": "Col"
+    },
+    {
+      "title": "AU HASARD BALTHAZAR",
+      "director": "Robert Bresson",
+      "year": 1966,
+      "country": "France",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "SUNSET BLVD.",
+      "director": "Billy Wilder",
+      "year": 1950,
+      "country": "USA",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "CASABLANCA",
+      "director": "Michael Curtiz",
+      "year": 1942,
+      "country": "USA",
+      "length": 102,
+      "color": "BW"
+    },
+    {
+      "title": "BLADE RUNNER",
+      "director": "Ridley Scott",
+      "year": 1982,
+      "country": "USA",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "AVVENTURA, L'",
+      "director": "Michelangelo Antonioni",
+      "year": 1960,
+      "country": "Italy-France",
+      "length": 145,
+      "color": "BW"
+    },
+    {
+      "title": "CONTEMPT",
+      "director": "Jean-Luc Godard",
+      "year": 1963,
+      "country": "France-Italy",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "GENERAL, THE",
+      "director": "Buster Keaton & Clyde Bruckman",
+      "year": 1926,
+      "country": "USA",
+      "length": 74,
+      "color": "BW"
+    },
+    {
+      "title": "REAR WINDOW",
+      "director": "Alfred Hitchcock",
+      "year": 1954,
+      "country": "USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "IN THE MOOD FOR LOVE",
+      "director": "Wong Kar-wai",
+      "year": 2000,
+      "country": "Hong Kong-France",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "NIGHT OF THE HUNTER, THE",
+      "director": "Charles Laughton",
+      "year": 1955,
+      "country": "USA",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "GRANDE ILLUSION, LA",
+      "director": "Jean Renoir",
+      "year": 1937,
+      "country": "France",
+      "length": 117,
+      "color": "BW"
+    },
+    {
+      "title": "THIRD MAN, THE",
+      "director": "Carol Reed",
+      "year": 1949,
+      "country": "UK",
+      "length": 104,
+      "color": "BW"
+    },
+    {
+      "title": "UGETSU MONOGATARI",
+      "director": "Kenji Mizoguchi",
+      "year": 1953,
+      "country": "Japan",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "PLAYTIME",
+      "director": "Jacques Tati",
+      "year": 1967,
+      "country": "France",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "MODERN TIMES",
+      "director": "Charles Chaplin",
+      "year": 1936,
+      "country": "USA",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB",
+      "director": "Stanley Kubrick",
+      "year": 1964,
+      "country": "UK-USA",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "FANNY AND ALEXANDER",
+      "director": "Ingmar Bergman",
+      "year": 1982,
+      "country": "Sweden",
+      "length": 189,
+      "color": "Col"
+    },
+    {
+      "title": "STALKER",
+      "director": "Andrei Tarkovsky",
+      "year": 1979,
+      "country": "USSR",
+      "length": 160,
+      "color": "Col-BW"
+    },
+    {
+      "title": "CHINATOWN",
+      "director": "Roman Polanski",
+      "year": 1974,
+      "country": "USA",
+      "length": 131,
+      "color": "Col"
+    },
+    {
+      "title": "BARRY LYNDON",
+      "director": "Stanley Kubrick",
+      "year": 1975,
+      "country": "UK",
+      "length": 183,
+      "color": "Col"
+    },
+    {
+      "title": "MULHOLLAND DR.",
+      "director": "David Lynch",
+      "year": 2001,
+      "country": "France-USA",
+      "length": 147,
+      "color": "Col"
+    },
+    {
+      "title": "PATHER PANCHALI",
+      "director": "Satyajit Ray",
+      "year": 1955,
+      "country": "India",
+      "length": 112,
+      "color": "BW"
+    },
+    {
+      "title": "APARTMENT, THE",
+      "director": "Billy Wilder",
+      "year": 1960,
+      "country": "USA",
+      "length": 125,
+      "color": "BW"
+    },
+    {
+      "title": "RIO BRAVO",
+      "director": "Howard Hawks",
+      "year": 1959,
+      "country": "USA",
+      "length": 141,
+      "color": "Col"
+    },
+    {
+      "title": "M",
+      "director": "Fritz Lang",
+      "year": 1931,
+      "country": "Germany",
+      "length": 99,
+      "color": "BW"
+    },
+    {
+      "title": "NORTH BY NORTHWEST",
+      "director": "Alfred Hitchcock",
+      "year": 1959,
+      "country": "USA",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "METROPOLIS",
+      "director": "Fritz Lang",
+      "year": 1927,
+      "country": "Germany",
+      "length": 153,
+      "color": "BW"
+    },
+    {
+      "title": "WILD STRAWBERRIES",
+      "director": "Ingmar Bergman",
+      "year": 1957,
+      "country": "Sweden",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "ENFANTS DU PARADIS, LES",
+      "director": "Marcel Carné",
+      "year": 1945,
+      "country": "France",
+      "length": 195,
+      "color": "BW"
+    },
+    {
+      "title": "VIRIDIANA",
+      "director": "Luis Buñuel",
+      "year": 1961,
+      "country": "Spain",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "PIERROT LE FOU",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "country": "France-Italy",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "STRADA, LA",
+      "director": "Federico Fellini",
+      "year": 1954,
+      "country": "Italy",
+      "length": 115,
+      "color": "BW"
+    },
+    {
+      "title": "SHOAH",
+      "director": "Claude Lanzmann",
+      "year": 1985,
+      "country": "France",
+      "length": 566,
+      "color": "Col"
+    },
+    {
+      "title": "WILD BUNCH, THE",
+      "director": "Sam Peckinpah",
+      "year": 1969,
+      "country": "USA",
+      "length": 144,
+      "color": "Col"
+    },
+    {
+      "title": "ONCE UPON A TIME IN THE WEST",
+      "director": "Sergio Leone",
+      "year": 1968,
+      "country": "Italy-USA",
+      "length": 165,
+      "color": "Col"
+    },
+    {
+      "title": "SEVENTH SEAL, THE",
+      "director": "Ingmar Bergman",
+      "year": 1957,
+      "country": "Sweden",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "GOODFELLAS",
+      "director": "Martin Scorsese",
+      "year": 1990,
+      "country": "USA",
+      "length": 146,
+      "color": "Col"
+    },
+    {
+      "title": "AMARCORD",
+      "director": "Federico Fellini",
+      "year": 1973,
+      "country": "Italy",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "PULP FICTION",
+      "director": "Quentin Tarantino",
+      "year": 1994,
+      "country": "USA",
+      "length": 154,
+      "color": "Col"
+    },
+    {
+      "title": "BATTLE OF ALGIERS, THE",
+      "director": "Gillo Pontecorvo",
+      "year": 1966,
+      "country": "Italy-Algeria",
+      "length": 123,
+      "color": "BW"
+    },
+    {
+      "title": "LEOPARD, THE",
+      "director": "Luchino Visconti",
+      "year": 1963,
+      "country": "Italy",
+      "length": 205,
+      "color": "Col"
+    },
+    {
+      "title": "VOYAGE IN ITALY",
+      "director": "Roberto Rossellini",
+      "year": 1953,
+      "country": "Italy",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "GOLD RUSH, THE",
+      "director": "Charles Chaplin",
+      "year": 1925,
+      "country": "USA",
+      "length": 82,
+      "color": "BW"
+    },
+    {
+      "title": "MAGNIFICENT AMBERSONS, THE",
+      "director": "Orson Welles",
+      "year": 1942,
+      "country": "USA",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "LATE SPRING",
+      "director": "Yasujiro Ozu",
+      "year": 1949,
+      "country": "Japan",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "PICKPOCKET",
+      "director": "Robert Bresson",
+      "year": 1959,
+      "country": "France",
+      "length": 75,
+      "color": "BW"
+    },
+    {
+      "title": "CLOCKWORK ORANGE, A",
+      "director": "Stanley Kubrick",
+      "year": 1971,
+      "country": "UK",
+      "length": 137,
+      "color": "Col"
+    },
+    {
+      "title": "IT'S A WONDERFUL LIFE",
+      "director": "Frank Capra",
+      "year": 1946,
+      "country": "USA",
+      "length": 129,
+      "color": "BW"
+    },
+    {
+      "title": "CLOSE-UP",
+      "director": "Abbas Kiarostami",
+      "year": 1990,
+      "country": "Iran",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "JULES ET JIM",
+      "director": "François Truffaut",
+      "year": 1962,
+      "country": "France",
+      "length": 104,
+      "color": "BW"
+    },
+    {
+      "title": "JEANNE DIELMAN, 23 QUAI DU COMMERCE, 1080 BRUXELLES",
+      "director": "Chantal Akerman",
+      "year": 1975,
+      "country": "Belgium-France",
+      "length": 201,
+      "color": "Col"
+    },
+    {
+      "title": "BLUE VELVET",
+      "director": "David Lynch",
+      "year": 1986,
+      "country": "USA",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "CONFORMIST, THE",
+      "director": "Bernardo Bertolucci",
+      "year": 1970,
+      "country": "Italy-France-West Germany",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "NASHVILLE",
+      "director": "Robert Altman",
+      "year": 1975,
+      "country": "USA",
+      "length": 159,
+      "color": "Col"
+    },
+    {
+      "title": "ANNIE HALL",
+      "director": "Woody Allen",
+      "year": 1977,
+      "country": "USA",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "GERTRUD",
+      "director": "Carl Theodor Dreyer",
+      "year": 1964,
+      "country": "Denmark",
+      "length": 116,
+      "color": "BW"
+    },
+    {
+      "title": "MAN ESCAPED, A",
+      "director": "Robert Bresson",
+      "year": 1956,
+      "country": "France",
+      "length": 102,
+      "color": "BW"
+    },
+    {
+      "title": "SHINING, THE",
+      "director": "Stanley Kubrick",
+      "year": 1980,
+      "country": "USA",
+      "length": 142,
+      "color": "Col"
+    },
+    {
+      "title": "JAWS",
+      "director": "Steven Spielberg",
+      "year": 1975,
+      "country": "USA",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "SANSHO THE BAILIFF",
+      "director": "Kenji Mizoguchi",
+      "year": 1954,
+      "country": "Japan",
+      "length": 125,
+      "color": "BW"
+    },
+    {
+      "title": "WOMAN UNDER THE INFLUENCE, A",
+      "director": "John Cassavetes",
+      "year": 1974,
+      "country": "USA",
+      "length": 155,
+      "color": "Col"
+    },
+    {
+      "title": "MAN WHO SHOT LIBERTY VALANCE, THE",
+      "director": "John Ford",
+      "year": 1962,
+      "country": "USA",
+      "length": 119,
+      "color": "BW"
+    },
+    {
+      "title": "GREED",
+      "director": "Erich von Stroheim",
+      "year": 1924,
+      "country": "USA",
+      "length": 140,
+      "color": "BW"
+    },
+    {
+      "title": "SANS SOLEIL",
+      "director": "Chris Marker",
+      "year": 1983,
+      "country": "France",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "LAST YEAR AT MARIENBAD",
+      "director": "Alain Resnais",
+      "year": 1961,
+      "country": "France-Italy",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "BLOW-UP",
+      "director": "Michelangelo Antonioni",
+      "year": 1966,
+      "country": "Italy-UK",
+      "length": 111,
+      "color": "Col"
+    },
+    {
+      "title": "ONCE UPON A TIME IN AMERICA",
+      "director": "Sergio Leone",
+      "year": 1984,
+      "country": "Italy-USA",
+      "length": 229,
+      "color": "Col"
+    },
+    {
+      "title": "AGUIRRE: THE WRATH OF GOD",
+      "director": "Werner Herzog",
+      "year": 1972,
+      "country": "West Germany",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "TO BE OR NOT TO BE",
+      "director": "Ernst Lubitsch",
+      "year": 1942,
+      "country": "USA",
+      "length": 99,
+      "color": "BW"
+    },
+    {
+      "title": "MOTHER AND THE WHORE, THE",
+      "director": "Jean Eustache",
+      "year": 1973,
+      "country": "France",
+      "length": 210,
+      "color": "BW"
+    },
+    {
+      "title": "SPIRIT OF THE BEEHIVE, THE",
+      "director": "Victor Erice",
+      "year": 1973,
+      "country": "Spain",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "WIZARD OF OZ, THE",
+      "director": "Victor Fleming",
+      "year": 1939,
+      "country": "USA",
+      "length": 101,
+      "color": "Col-BW"
+    },
+    {
+      "title": "INTOLERANCE",
+      "director": "D.W. Griffith",
+      "year": 1916,
+      "country": "USA",
+      "length": 178,
+      "color": "BW"
+    },
+    {
+      "title": "GONE WITH THE WIND",
+      "director": "Victor Fleming",
+      "year": 1939,
+      "country": "USA",
+      "length": 222,
+      "color": "Col"
+    },
+    {
+      "title": "SÁTÁNTANGÓ",
+      "director": "Béla Tarr",
+      "year": 1994,
+      "country": "Hungary-Germany-Switzerland",
+      "length": 450,
+      "color": "BW"
+    },
+    {
+      "title": "ECLISSE, L'",
+      "director": "Michelangelo Antonioni",
+      "year": 1962,
+      "country": "Italy-France",
+      "length": 126,
+      "color": "BW"
+    },
+    {
+      "title": "HIROSHIMA MON AMOUR",
+      "director": "Alain Resnais",
+      "year": 1959,
+      "country": "France-Japan",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "ALIEN",
+      "director": "Ridley Scott",
+      "year": 1979,
+      "country": "USA",
+      "length": 117,
+      "color": "Col"
+    },
+    {
+      "title": "IKIRU",
+      "director": "Akira Kurosawa",
+      "year": 1952,
+      "country": "Japan",
+      "length": 143,
+      "color": "BW"
+    },
+    {
+      "title": "SHERLOCK JR.",
+      "director": "Buster Keaton",
+      "year": 1924,
+      "country": "USA",
+      "length": 45,
+      "color": "BW"
+    },
+    {
+      "title": "JETÉE, LA",
+      "director": "Chris Marker",
+      "year": 1962,
+      "country": "France",
+      "length": 27,
+      "color": "BW"
+    },
+    {
+      "title": "MANHATTAN",
+      "director": "Woody Allen",
+      "year": 1979,
+      "country": "USA",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "STAR WARS",
+      "director": "George Lucas",
+      "year": 1977,
+      "country": "USA",
+      "length": 121,
+      "color": "Col"
+    },
+    {
+      "title": "E.T. THE EXTRA-TERRESTRIAL",
+      "director": "Steven Spielberg",
+      "year": 1982,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "BEAU TRAVAIL",
+      "director": "Claire Denis",
+      "year": 1999,
+      "country": "France",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "NOSFERATU",
+      "director": "F.W. Murnau",
+      "year": 1922,
+      "country": "Germany",
+      "length": 84,
+      "color": "BW"
+    },
+    {
+      "title": "ONE FLEW OVER THE CUCKOO'S NEST",
+      "director": "Milos Forman",
+      "year": 1975,
+      "country": "USA",
+      "length": 133,
+      "color": "Col"
+    },
+    {
+      "title": "BRIGHTER SUMMER DAY, A",
+      "director": "Edward Yang",
+      "year": 1991,
+      "country": "Taiwan",
+      "length": 237,
+      "color": "Col"
+    },
+    {
+      "title": "MADAME DE...",
+      "director": "Max Ophüls",
+      "year": 1953,
+      "country": "France-Italy",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "YI YI",
+      "director": "Edward Yang",
+      "year": 2000,
+      "country": "Taiwan-Japan",
+      "length": 173,
+      "color": "Col"
+    },
+    {
+      "title": "ALL ABOUT EVE",
+      "director": "Joseph L. Mankiewicz",
+      "year": 1950,
+      "country": "USA",
+      "length": 138,
+      "color": "BW"
+    },
+    {
+      "title": "BRINGING UP BABY",
+      "director": "Howard Hawks",
+      "year": 1938,
+      "country": "USA",
+      "length": 102,
+      "color": "BW"
+    },
+    {
+      "title": "LETTER FROM AN UNKNOWN WOMAN",
+      "director": "Max Ophüls",
+      "year": 1948,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "DON'T LOOK NOW",
+      "director": "Nicolas Roeg",
+      "year": 1973,
+      "country": "UK",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "MY DARLING CLEMENTINE",
+      "director": "John Ford",
+      "year": 1946,
+      "country": "USA",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "ROME, OPEN CITY",
+      "director": "Roberto Rossellini",
+      "year": 1945,
+      "country": "Italy",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "OLVIDADOS, LOS",
+      "director": "Luis Buñuel",
+      "year": 1950,
+      "country": "Mexico",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "PARTIE DE CAMPAGNE",
+      "director": "Jean Renoir",
+      "year": 1936,
+      "country": "France",
+      "length": 40,
+      "color": "BW"
+    },
+    {
+      "title": "BADLANDS",
+      "director": "Terrence Malick",
+      "year": 1973,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "VIVRE SA VIE",
+      "director": "Jean-Luc Godard",
+      "year": 1962,
+      "country": "France",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "ROSEMARY'S BABY",
+      "director": "Roman Polanski",
+      "year": 1968,
+      "country": "USA",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "NOTORIOUS",
+      "director": "Alfred Hitchcock",
+      "year": 1946,
+      "country": "USA",
+      "length": 101,
+      "color": "BW"
+    },
+    {
+      "title": "STAGECOACH",
+      "director": "John Ford",
+      "year": 1939,
+      "country": "USA",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "DO THE RIGHT THING",
+      "director": "Spike Lee",
+      "year": 1989,
+      "country": "USA",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "CHIEN ANDALOU, UN",
+      "director": "Luis Buñuel",
+      "year": 1928,
+      "country": "France",
+      "length": 16,
+      "color": "BW"
+    },
+    {
+      "title": "GOOD, THE BAD AND THE UGLY, THE",
+      "director": "Sergio Leone",
+      "year": 1966,
+      "country": "Italy-Spain",
+      "length": 161,
+      "color": "Col"
+    },
+    {
+      "title": "ÂGE D'OR, L'",
+      "director": "Luis Buñuel",
+      "year": 1930,
+      "country": "France",
+      "length": 63,
+      "color": "BW"
+    },
+    {
+      "title": "ALI: FEAR EATS THE SOUL",
+      "director": "Rainer Werner Fassbinder",
+      "year": 1974,
+      "country": "West Germany",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "HIS GIRL FRIDAY",
+      "director": "Howard Hawks",
+      "year": 1940,
+      "country": "USA",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "LADY EVE, THE",
+      "director": "Preston Sturges",
+      "year": 1941,
+      "country": "USA",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "PASSENGER, THE",
+      "director": "Michelangelo Antonioni",
+      "year": 1975,
+      "country": "Italy",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "DUCK SOUP",
+      "director": "Leo McCarey",
+      "year": 1933,
+      "country": "USA",
+      "length": 70,
+      "color": "BW"
+    },
+    {
+      "title": "GOSPEL ACCORDING TO ST. MATTHEW, THE",
+      "director": "Pier Paolo Pasolini",
+      "year": 1964,
+      "country": "Italy-France",
+      "length": 135,
+      "color": "BW"
+    },
+    {
+      "title": "MATTER OF LIFE AND DEATH, A",
+      "director": "Michael Powell & Emeric Pressburger",
+      "year": 1946,
+      "country": "UK",
+      "length": 104,
+      "color": "Col"
+    },
+    {
+      "title": "DOUBLE INDEMNITY",
+      "director": "Billy Wilder",
+      "year": 1944,
+      "country": "USA",
+      "length": 106,
+      "color": "BW"
+    },
+    {
+      "title": "TROUBLE IN PARADISE",
+      "director": "Ernst Lubitsch",
+      "year": 1932,
+      "country": "USA",
+      "length": 83,
+      "color": "BW"
+    },
+    {
+      "title": "COME AND SEE",
+      "director": "Elem Klimov",
+      "year": 1985,
+      "country": "USSR",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "SPRING IN A SMALL TOWN",
+      "director": "Fei Mu",
+      "year": 1948,
+      "country": "China",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "BRIEF ENCOUNTER",
+      "director": "David Lean",
+      "year": 1945,
+      "country": "UK",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "ON THE WATERFRONT",
+      "director": "Elia Kazan",
+      "year": 1954,
+      "country": "USA",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "CONVERSATION, THE",
+      "director": "Francis Ford Coppola",
+      "year": 1974,
+      "country": "USA",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "DAYS OF HEAVEN",
+      "director": "Terrence Malick",
+      "year": 1978,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "HISTOIRE(S) DU CINÉMA",
+      "director": "Jean-Luc Godard",
+      "year": 1998,
+      "country": "France",
+      "length": 265,
+      "color": "Col-BW"
+    },
+    {
+      "title": "EXTERMINATING ANGEL, THE",
+      "director": "Luis Buñuel",
+      "year": 1962,
+      "country": "Mexico",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "CRIES AND WHISPERS",
+      "director": "Ingmar Bergman",
+      "year": 1972,
+      "country": "Sweden",
+      "length": 106,
+      "color": "Col"
+    },
+    {
+      "title": "RED SHOES, THE",
+      "director": "Michael Powell & Emeric Pressburger",
+      "year": 1948,
+      "country": "UK",
+      "length": 133,
+      "color": "Col"
+    },
+    {
+      "title": "CHIMES AT MIDNIGHT",
+      "director": "Orson Welles",
+      "year": 1965,
+      "country": "France-Spain-Switzerland",
+      "length": 115,
+      "color": "BW"
+    },
+    {
+      "title": "DISCREET CHARM OF THE BOURGEOISIE, THE",
+      "director": "Luis Buñuel",
+      "year": 1972,
+      "country": "France",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "PIANO, THE",
+      "director": "Jane Campion",
+      "year": 1993,
+      "country": "New Zealand-Australia-France",
+      "length": 121,
+      "color": "Col"
+    },
+    {
+      "title": "KING KONG",
+      "director": "Merian C. Cooper & Ernest B. Schoedsack",
+      "year": 1933,
+      "country": "USA",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "ARGENT, L'",
+      "director": "Robert Bresson",
+      "year": 1983,
+      "country": "France-Switzerland",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "BLACK NARCISSUS",
+      "director": "Michael Powell & Emeric Pressburger",
+      "year": 1947,
+      "country": "UK",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "THERE WILL BE BLOOD",
+      "director": "Paul Thomas Anderson",
+      "year": 2007,
+      "country": "USA",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "RIVER, THE",
+      "director": "Jean Renoir",
+      "year": 1951,
+      "country": "France-India-USA",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "DEER HUNTER, THE",
+      "director": "Michael Cimino",
+      "year": 1978,
+      "country": "USA",
+      "length": 183,
+      "color": "Col"
+    },
+    {
+      "title": "EARTH",
+      "director": "Alexander Dovzhenko",
+      "year": 1930,
+      "country": "USSR",
+      "length": 75,
+      "color": "BW"
+    },
+    {
+      "title": "UMBRELLAS OF CHERBOURG, THE",
+      "director": "Jacques Demy",
+      "year": 1964,
+      "country": "France-Germany",
+      "length": 91,
+      "color": "Col"
+    },
+    {
+      "title": "ROCCO AND HIS BROTHERS",
+      "director": "Luchino Visconti",
+      "year": 1960,
+      "country": "Italy-France",
+      "length": 180,
+      "color": "BW"
+    },
+    {
+      "title": "SPIRITED AWAY",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "country": "Japan",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "GREAT DICTATOR, THE",
+      "director": "Charles Chaplin",
+      "year": 1940,
+      "country": "USA",
+      "length": 128,
+      "color": "BW"
+    },
+    {
+      "title": "TEXAS CHAINSAW MASSACRE, THE",
+      "director": "Tobe Hooper",
+      "year": 1974,
+      "country": "USA",
+      "length": 83,
+      "color": "Col"
+    },
+    {
+      "title": "MOUCHETTE",
+      "director": "Robert Bresson",
+      "year": 1967,
+      "country": "France",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "NAPOLÉON",
+      "director": "Abel Gance",
+      "year": 1927,
+      "country": "France",
+      "length": 235,
+      "color": "BW"
+    },
+    {
+      "title": "IMITATION OF LIFE",
+      "director": "Douglas Sirk",
+      "year": 1959,
+      "country": "USA",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "GRAPES OF WRATH, THE",
+      "director": "John Ford",
+      "year": 1940,
+      "country": "USA",
+      "length": 129,
+      "color": "BW"
+    },
+    {
+      "title": "LAST LAUGH, THE",
+      "director": "F.W. Murnau",
+      "year": 1924,
+      "country": "Germany",
+      "length": 77,
+      "color": "BW"
+    },
+    {
+      "title": "NIGHT AND FOG",
+      "director": "Alain Resnais",
+      "year": 1955,
+      "country": "France",
+      "length": 32,
+      "color": "Col-BW"
+    },
+    {
+      "title": "DEKALOG",
+      "director": "Krzysztof Kieslowski",
+      "year": 1988,
+      "country": "Poland-West Germany",
+      "length": 550,
+      "color": "Col"
+    },
+    {
+      "title": "BIRDS, THE",
+      "director": "Alfred Hitchcock",
+      "year": 1963,
+      "country": "USA",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "CITY OF SADNESS, A",
+      "director": "Hou Hsiao-hsien",
+      "year": 1989,
+      "country": "Taiwan-Hong Kong",
+      "length": 157,
+      "color": "Col"
+    },
+    {
+      "title": "BRAZIL",
+      "director": "Terry Gilliam",
+      "year": 1985,
+      "country": "UK",
+      "length": 131,
+      "color": "Col"
+    },
+    {
+      "title": "OUT OF THE PAST",
+      "director": "Jacques Tourneur",
+      "year": 1947,
+      "country": "USA",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "LIFE AND DEATH OF COLONEL BLIMP, THE",
+      "director": "Michael Powell & Emeric Pressburger",
+      "year": 1943,
+      "country": "UK",
+      "length": 163,
+      "color": "Col"
+    },
+    {
+      "title": "KES",
+      "director": "Ken Loach",
+      "year": 1969,
+      "country": "UK",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "RAIDERS OF THE LOST ARK",
+      "director": "Steven Spielberg",
+      "year": 1981,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "UMBERTO D.",
+      "director": "Vittorio De Sica",
+      "year": 1952,
+      "country": "Italy",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "FARGO",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 1996,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "SALÒ, OR THE 120 DAYS OF SODOM",
+      "director": "Pier Paolo Pasolini",
+      "year": 1975,
+      "country": "Italy",
+      "length": 117,
+      "color": "Col"
+    },
+    {
+      "title": "CHUNGKING EXPRESS",
+      "director": "Wong Kar-wai",
+      "year": 1994,
+      "country": "Hong Kong",
+      "length": 104,
+      "color": "Col"
+    },
+    {
+      "title": "CLOSE ENCOUNTERS OF THE THIRD KIND",
+      "director": "Steven Spielberg",
+      "year": 1977,
+      "country": "USA",
+      "length": 135,
+      "color": "Col"
+    },
+    {
+      "title": "SOLARIS",
+      "director": "Andrei Tarkovsky",
+      "year": 1972,
+      "country": "USSR",
+      "length": 165,
+      "color": "Col-BW"
+    },
+    {
+      "title": "TRAVELLING PLAYERS, THE",
+      "director": "Theo Angelopoulos",
+      "year": 1975,
+      "country": "Greece",
+      "length": 230,
+      "color": "Col"
+    },
+    {
+      "title": "BELLE DE JOUR",
+      "director": "Luis Buñuel",
+      "year": 1967,
+      "country": "France-Italy",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "DEATH IN VENICE",
+      "director": "Luchino Visconti",
+      "year": 1971,
+      "country": "Italy",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "PERFORMANCE",
+      "director": "Nicolas Roeg & Donald Cammell",
+      "year": 1970,
+      "country": "UK",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "CELINE AND JULIE GO BOATING",
+      "director": "Jacques Rivette",
+      "year": 1974,
+      "country": "France",
+      "length": 192,
+      "color": "Col"
+    },
+    {
+      "title": "RED RIVER",
+      "director": "Howard Hawks",
+      "year": 1948,
+      "country": "USA",
+      "length": 133,
+      "color": "BW"
+    },
+    {
+      "title": "SWEET SMELL OF SUCCESS",
+      "director": "Alexander Mackendrick",
+      "year": 1957,
+      "country": "USA",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "PAISAN",
+      "director": "Roberto Rossellini",
+      "year": 1946,
+      "country": "Italy",
+      "length": 120,
+      "color": "BW"
+    },
+    {
+      "title": "BREAKING THE WAVES",
+      "director": "Lars von Trier",
+      "year": 1996,
+      "country": "Denmark-Sweden-France-Netherlands-Norway-Iceland-Spain",
+      "length": 156,
+      "color": "Col"
+    },
+    {
+      "title": "CABINET OF DR. CALIGARI, THE",
+      "director": "Robert Wiene",
+      "year": 1920,
+      "country": "Germany",
+      "length": 69,
+      "color": "BW"
+    },
+    {
+      "title": "SAMOURAÏ, LE",
+      "director": "Jean-Pierre Melville",
+      "year": 1967,
+      "country": "France",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "QUIET MAN, THE",
+      "director": "John Ford",
+      "year": 1952,
+      "country": "USA",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "VAMPYR",
+      "director": "Carl Theodor Dreyer",
+      "year": 1932,
+      "country": "Germany-France",
+      "length": 73,
+      "color": "BW"
+    },
+    {
+      "title": "UNFORGIVEN",
+      "director": "Clint Eastwood",
+      "year": 1992,
+      "country": "USA",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "BEST YEARS OF OUR LIVES, THE",
+      "director": "William Wyler",
+      "year": 1946,
+      "country": "USA",
+      "length": 172,
+      "color": "BW"
+    },
+    {
+      "title": "NIGHTS OF CABIRIA",
+      "director": "Federico Fellini",
+      "year": 1957,
+      "country": "Italy-France",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "BLACK GOD, WHITE DEVIL",
+      "director": "Glauber Rocha",
+      "year": 1964,
+      "country": "Brazil",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "MCCABE & MRS. MILLER",
+      "director": "Robert Altman",
+      "year": 1971,
+      "country": "USA",
+      "length": 121,
+      "color": "Col"
+    },
+    {
+      "title": "RAN",
+      "director": "Akira Kurosawa",
+      "year": 1985,
+      "country": "France-Japan",
+      "length": 161,
+      "color": "Col"
+    },
+    {
+      "title": "CACHÉ",
+      "director": "Michael Haneke",
+      "year": 2005,
+      "country": "France-Austria-Germany-Italy-USA",
+      "length": 117,
+      "color": "Col"
+    },
+    {
+      "title": "ASHES AND DIAMONDS",
+      "director": "Andrzej Wajda",
+      "year": 1958,
+      "country": "Poland",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "GRADUATE, THE",
+      "director": "Mike Nichols",
+      "year": 1967,
+      "country": "USA",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "EXORCIST, THE",
+      "director": "William Friedkin",
+      "year": 1973,
+      "country": "USA",
+      "length": 122,
+      "color": "Col"
+    },
+    {
+      "title": "TREE OF LIFE, THE",
+      "director": "Terrence Malick",
+      "year": 2011,
+      "country": "USA",
+      "length": 139,
+      "color": "Col"
+    },
+    {
+      "title": "THIN RED LINE, THE",
+      "director": "Terrence Malick",
+      "year": 1998,
+      "country": "USA",
+      "length": 170,
+      "color": "Col"
+    },
+    {
+      "title": "NANOOK OF THE NORTH",
+      "director": "Robert Flaherty",
+      "year": 1922,
+      "country": "USA",
+      "length": 79,
+      "color": "BW"
+    },
+    {
+      "title": "WINGS OF DESIRE",
+      "director": "Wim Wenders",
+      "year": 1987,
+      "country": "West Germany-France",
+      "length": 130,
+      "color": "Col-BW"
+    },
+    {
+      "title": "WAVELENGTH",
+      "director": "Michael Snow",
+      "year": 1967,
+      "country": "Canada-USA",
+      "length": 45,
+      "color": "Col"
+    },
+    {
+      "title": "MY NEIGHBOUR TOTORO",
+      "director": "Hayao Miyazaki",
+      "year": 1988,
+      "country": "Japan",
+      "length": 86,
+      "color": "Col"
+    },
+    {
+      "title": "KIND HEARTS AND CORONETS",
+      "director": "Robert Hamer",
+      "year": 1949,
+      "country": "UK",
+      "length": 104,
+      "color": "BW"
+    },
+    {
+      "title": "SCHINDLER'S LIST",
+      "director": "Steven Spielberg",
+      "year": 1993,
+      "country": "USA",
+      "length": 195,
+      "color": "Col-BW"
+    },
+    {
+      "title": "BIG LEBOWSKI, THE",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 1998,
+      "country": "USA-UK",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "ETERNAL SUNSHINE OF THE SPOTLESS MIND",
+      "director": "Michel Gondry",
+      "year": 2004,
+      "country": "USA",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "IVAN THE TERRIBLE, PART 2",
+      "director": "Sergei Eisenstein",
+      "year": 1946,
+      "country": "USSR",
+      "length": 88,
+      "color": "Col-BW"
+    },
+    {
+      "title": "TROPICAL MALADY",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2004,
+      "country": "Thailand-France-Germany-Italy",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "PARIS, TEXAS",
+      "director": "Wim Wenders",
+      "year": 1984,
+      "country": "USA",
+      "length": 150,
+      "color": "Col"
+    },
+    {
+      "title": "PATHS OF GLORY",
+      "director": "Stanley Kubrick",
+      "year": 1957,
+      "country": "USA",
+      "length": 86,
+      "color": "BW"
+    },
+    {
+      "title": "GERMANY, YEAR ZERO",
+      "director": "Roberto Rossellini",
+      "year": 1948,
+      "country": "Italy-West Germany",
+      "length": 74,
+      "color": "BW"
+    },
+    {
+      "title": "ONLY ANGELS HAVE WINGS",
+      "director": "Howard Hawks",
+      "year": 1939,
+      "country": "USA",
+      "length": 121,
+      "color": "BW"
+    },
+    {
+      "title": "DIARY OF A COUNTRY PRIEST",
+      "director": "Robert Bresson",
+      "year": 1951,
+      "country": "France",
+      "length": 120,
+      "color": "BW"
+    },
+    {
+      "title": "TREASURE OF THE SIERRA MADRE, THE",
+      "director": "John Huston",
+      "year": 1948,
+      "country": "USA",
+      "length": 124,
+      "color": "BW"
+    },
+    {
+      "title": "ZERO FOR CONDUCT",
+      "director": "Jean Vigo",
+      "year": 1933,
+      "country": "France",
+      "length": 41,
+      "color": "BW"
+    },
+    {
+      "title": "SULLIVAN'S TRAVELS",
+      "director": "Preston Sturges",
+      "year": 1941,
+      "country": "USA",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "GROUNDHOG DAY",
+      "director": "Harold Ramis",
+      "year": 1993,
+      "country": "USA",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "TWO OR THREE THINGS I KNOW ABOUT HER",
+      "director": "Jean-Luc Godard",
+      "year": 1966,
+      "country": "France",
+      "length": 87,
+      "color": "Col"
+    },
+    {
+      "title": "F FOR FAKE",
+      "director": "Orson Welles",
+      "year": 1973,
+      "country": "France-Iran-West Germany",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "NIGHT OF THE LIVING DEAD",
+      "director": "George A. Romero",
+      "year": 1968,
+      "country": "USA",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "MEET ME IN ST. LOUIS",
+      "director": "Vincente Minnelli",
+      "year": 1944,
+      "country": "USA",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "CROWD, THE",
+      "director": "King Vidor",
+      "year": 1928,
+      "country": "USA",
+      "length": 104,
+      "color": "BW"
+    },
+    {
+      "title": "NOTTE, LA",
+      "director": "Michelangelo Antonioni",
+      "year": 1961,
+      "country": "Italy-France",
+      "length": 120,
+      "color": "BW"
+    },
+    {
+      "title": "BONNIE AND CLYDE",
+      "director": "Arthur Penn",
+      "year": 1967,
+      "country": "USA",
+      "length": 111,
+      "color": "Col"
+    },
+    {
+      "title": "JOHNNY GUITAR",
+      "director": "Nicholas Ray",
+      "year": 1954,
+      "country": "USA",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "BAND WAGON, THE",
+      "director": "Vincente Minnelli",
+      "year": 1953,
+      "country": "USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "CLÉO FROM 5 TO 7",
+      "director": "Agnès Varda",
+      "year": 1962,
+      "country": "France",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "COLOUR OF POMEGRANATE, THE",
+      "director": "Sergei Parajanov",
+      "year": 1969,
+      "country": "USSR",
+      "length": 73,
+      "color": "Col"
+    },
+    {
+      "title": "TABU",
+      "director": "F.W. Murnau",
+      "year": 1931,
+      "country": "USA",
+      "length": 82,
+      "color": "BW"
+    },
+    {
+      "title": "FREAKS",
+      "director": "Tod Browning",
+      "year": 1932,
+      "country": "USA",
+      "length": 64,
+      "color": "BW"
+    },
+    {
+      "title": "VERDUGO, EL",
+      "director": "Luis García Berlanga",
+      "year": 1963,
+      "country": "Spain-Italy",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "SHOP AROUND THE CORNER, THE",
+      "director": "Ernst Lubitsch",
+      "year": 1940,
+      "country": "USA",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "THING, THE",
+      "director": "John Carpenter",
+      "year": 1982,
+      "country": "USA",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "LIFE OF OHARU, THE",
+      "director": "Kenji Mizoguchi",
+      "year": 1952,
+      "country": "Japan",
+      "length": 146,
+      "color": "BW"
+    },
+    {
+      "title": "MAGNOLIA",
+      "director": "Paul Thomas Anderson",
+      "year": 1999,
+      "country": "USA",
+      "length": 188,
+      "color": "Col-BW"
+    },
+    {
+      "title": "MEMORIES OF UNDERDEVELOPMENT",
+      "director": "Tomás Gutiérrez Alea",
+      "year": 1968,
+      "country": "Cuba",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "FLOATING CLOUDS",
+      "director": "Mikio Naruse",
+      "year": 1955,
+      "country": "Japan",
+      "length": 123,
+      "color": "BW"
+    },
+    {
+      "title": "THIN BLUE LINE, THE",
+      "director": "Errol Morris",
+      "year": 1988,
+      "country": "USA",
+      "length": 96,
+      "color": "Col"
+    },
+    {
+      "title": "STORY OF THE LAST CHRYSANTHEMUMS, THE",
+      "director": "Kenji Mizoguchi",
+      "year": 1939,
+      "country": "Japan",
+      "length": 148,
+      "color": "BW"
+    },
+    {
+      "title": "IVAN THE TERRIBLE, PART 1",
+      "director": "Sergei Eisenstein",
+      "year": 1944,
+      "country": "USSR",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "FACES",
+      "director": "John Cassavetes",
+      "year": 1968,
+      "country": "USA",
+      "length": 130,
+      "color": "BW"
+    },
+    {
+      "title": "MEAN STREETS",
+      "director": "Martin Scorsese",
+      "year": 1973,
+      "country": "USA",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "MESHES OF THE AFTERNOON",
+      "director": "Maya Deren & Alexander Hammid",
+      "year": 1943,
+      "country": "USA",
+      "length": 15,
+      "color": "BW"
+    },
+    {
+      "title": "IN A LONELY PLACE",
+      "director": "Nicholas Ray",
+      "year": 1950,
+      "country": "USA",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "DISTANT VOICES, STILL LIVES",
+      "director": "Terence Davies",
+      "year": 1988,
+      "country": "UK",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "BROKEN BLOSSOMS",
+      "director": "D.W. Griffith",
+      "year": 1919,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "KINGS OF THE ROAD",
+      "director": "Wim Wenders",
+      "year": 1976,
+      "country": "West Germany",
+      "length": 175,
+      "color": "BW"
+    },
+    {
+      "title": "ERASERHEAD",
+      "director": "David Lynch",
+      "year": 1977,
+      "country": "USA",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "BELLE ET LA BÊTE, LA",
+      "director": "Jean Cocteau",
+      "year": 1946,
+      "country": "France",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "MALTESE FALCON, THE",
+      "director": "John Huston",
+      "year": 1941,
+      "country": "USA",
+      "length": 100,
+      "color": "BW"
+    },
+    {
+      "title": "THREE COLOURS: RED",
+      "director": "Krzysztof Kieslowski",
+      "year": 1994,
+      "country": "France-Switzerland-Poland",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "THRONE OF BLOOD",
+      "director": "Akira Kurosawa",
+      "year": 1957,
+      "country": "Japan",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "MY NIGHT AT MAUD'S",
+      "director": "Eric Rohmer",
+      "year": 1969,
+      "country": "France",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "LOVE STREAMS",
+      "director": "John Cassavetes",
+      "year": 1984,
+      "country": "USA",
+      "length": 141,
+      "color": "Col"
+    },
+    {
+      "title": "WAGES OF FEAR, THE",
+      "director": "Henri-Georges Clouzot",
+      "year": 1953,
+      "country": "France-Italy",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "DAY OF WRATH",
+      "director": "Carl Theodor Dreyer",
+      "year": 1943,
+      "country": "Denmark",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "MONSIEUR VERDOUX",
+      "director": "Charles Chaplin",
+      "year": 1947,
+      "country": "USA",
+      "length": 123,
+      "color": "BW"
+    },
+    {
+      "title": "PEEPING TOM",
+      "director": "Michael Powell",
+      "year": 1960,
+      "country": "UK",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "CINEMA PARADISO",
+      "director": "Giuseppe Tornatore",
+      "year": 1988,
+      "country": "Italy-France",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "HUSBANDS",
+      "director": "John Cassavetes",
+      "year": 1970,
+      "country": "USA",
+      "length": 138,
+      "color": "Col"
+    },
+    {
+      "title": "EMPIRE STRIKES BACK, THE",
+      "director": "Irvin Kershner",
+      "year": 1980,
+      "country": "USA",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "MR. HULOT'S HOLIDAY",
+      "director": "Jacques Tati",
+      "year": 1953,
+      "country": "France",
+      "length": 86,
+      "color": "BW"
+    },
+    {
+      "title": "THREE COLOURS: BLUE",
+      "director": "Krzysztof Kieslowski",
+      "year": 1993,
+      "country": "France-Poland-Switzerland",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "MATRIX, THE",
+      "director": "Lana Wachowski & Lilly Wachowski",
+      "year": 1999,
+      "country": "USA-Australia",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "THIS IS SPINAL TAP",
+      "director": "Rob Reiner",
+      "year": 1984,
+      "country": "USA",
+      "length": 82,
+      "color": "Col"
+    },
+    {
+      "title": "PANDORA'S BOX",
+      "director": "G.W. Pabst",
+      "year": 1929,
+      "country": "Germany",
+      "length": 133,
+      "color": "BW"
+    },
+    {
+      "title": "CRIMES AND MISDEMEANORS",
+      "director": "Woody Allen",
+      "year": 1989,
+      "country": "USA",
+      "length": 104,
+      "color": "Col"
+    },
+    {
+      "title": "BIRTH OF A NATION, THE",
+      "director": "D.W. Griffith",
+      "year": 1915,
+      "country": "USA",
+      "length": 187,
+      "color": "BW"
+    },
+    {
+      "title": "BIG SLEEP, THE",
+      "director": "Howard Hawks",
+      "year": 1946,
+      "country": "USA",
+      "length": 114,
+      "color": "BW"
+    },
+    {
+      "title": "DAISIES",
+      "director": "Vera Chytilová",
+      "year": 1966,
+      "country": "Czechoslovakia",
+      "length": 76,
+      "color": "Col-BW"
+    },
+    {
+      "title": "KID, THE",
+      "director": "Charles Chaplin",
+      "year": 1921,
+      "country": "USA",
+      "length": 60,
+      "color": "BW"
+    },
+    {
+      "title": "VIDEODROME",
+      "director": "David Cronenberg",
+      "year": 1983,
+      "country": "Canada",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "WHERE IS THE FRIEND'S HOME?",
+      "director": "Abbas Kiarostami",
+      "year": 1987,
+      "country": "Iran",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "AUTUMN AFTERNOON, AN",
+      "director": "Yasujiro Ozu",
+      "year": 1962,
+      "country": "Japan",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "DAWN OF THE DEAD",
+      "director": "George A. Romero",
+      "year": 1978,
+      "country": "USA",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "MAKE WAY FOR TOMORROW",
+      "director": "Leo McCarey",
+      "year": 1937,
+      "country": "USA",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "UNDERGROUND",
+      "director": "Emir Kusturica",
+      "year": 1995,
+      "country": "Yugoslavia-France-Germany-Bulgaria-Czech Republic-Hungary",
+      "length": 192,
+      "color": "Col"
+    },
+    {
+      "title": "WEEK-END",
+      "director": "Jean-Luc Godard",
+      "year": 1967,
+      "country": "France-Italy",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "TOUKI BOUKI",
+      "director": "Djibril Diop Mambéty",
+      "year": 1973,
+      "country": "Senegal",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "KILLER OF SHEEP",
+      "director": "Charles Burnett",
+      "year": 1977,
+      "country": "USA",
+      "length": 83,
+      "color": "BW"
+    },
+    {
+      "title": "SNOW WHITE AND THE SEVEN DWARFS",
+      "director": "David Hand",
+      "year": 1937,
+      "country": "USA",
+      "length": 83,
+      "color": "Col"
+    },
+    {
+      "title": "CITY OF GOD",
+      "director": "Fernando Meirelles & Kátia Lund",
+      "year": 2002,
+      "country": "Brazil-Germany-France",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "RED DESERT",
+      "director": "Michelangelo Antonioni",
+      "year": 1964,
+      "country": "Italy-France",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "MUSIC ROOM, THE",
+      "director": "Satyajit Ray",
+      "year": 1958,
+      "country": "India",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "BACK TO THE FUTURE",
+      "director": "Robert Zemeckis",
+      "year": 1985,
+      "country": "USA",
+      "length": 116,
+      "color": "Col"
+    },
+    {
+      "title": "PUPPETMASTER, THE",
+      "director": "Hou Hsiao-hsien",
+      "year": 1993,
+      "country": "Taiwan",
+      "length": 141,
+      "color": "Col"
+    },
+    {
+      "title": "LAST PICTURE SHOW, THE",
+      "director": "Peter Bogdanovich",
+      "year": 1971,
+      "country": "USA",
+      "length": 118,
+      "color": "BW"
+    },
+    {
+      "title": "ALL ABOUT MY MOTHER",
+      "director": "Pedro Almodóvar",
+      "year": 1999,
+      "country": "Spain-France",
+      "length": 101,
+      "color": "Col"
+    },
+    {
+      "title": "IN THE REALM OF THE SENSES",
+      "director": "Nagisa Oshima",
+      "year": 1976,
+      "country": "Japan-France",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "STRANGER THAN PARADISE",
+      "director": "Jim Jarmusch",
+      "year": 1984,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "WORLD OF APU, THE",
+      "director": "Satyajit Ray",
+      "year": 1959,
+      "country": "India",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "BRIDE OF FRANKENSTEIN",
+      "director": "James Whale",
+      "year": 1935,
+      "country": "USA",
+      "length": 75,
+      "color": "BW"
+    },
+    {
+      "title": "CABARET",
+      "director": "Bob Fosse",
+      "year": 1972,
+      "country": "USA",
+      "length": 128,
+      "color": "Col"
+    },
+    {
+      "title": "RESERVOIR DOGS",
+      "director": "Quentin Tarantino",
+      "year": 1992,
+      "country": "USA",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "MIDNIGHT COWBOY",
+      "director": "John Schlesinger",
+      "year": 1969,
+      "country": "USA",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "SACRIFICE, THE",
+      "director": "Andrei Tarkovsky",
+      "year": 1986,
+      "country": "France-Sweden",
+      "length": 145,
+      "color": "Col"
+    },
+    {
+      "title": "DOG DAY AFTERNOON",
+      "director": "Sidney Lumet",
+      "year": 1975,
+      "country": "USA",
+      "length": 125,
+      "color": "Col"
+    },
+    {
+      "title": "TIME TO LIVE AND THE TIME TO DIE, THE",
+      "director": "Hou Hsiao-hsien",
+      "year": 1985,
+      "country": "Taiwan",
+      "length": 137,
+      "color": "Col"
+    },
+    {
+      "title": "TERRA EM TRANSE",
+      "director": "Glauber Rocha",
+      "year": 1967,
+      "country": "Brazil",
+      "length": 106,
+      "color": "BW"
+    },
+    {
+      "title": "EYES WITHOUT A FACE",
+      "director": "Georges Franju",
+      "year": 1960,
+      "country": "France-Italy",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "IT HAPPENED ONE NIGHT",
+      "director": "Frank Capra",
+      "year": 1934,
+      "country": "USA",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "CANTERBURY TALE, A",
+      "director": "Michael Powell & Emeric Pressburger",
+      "year": 1944,
+      "country": "UK",
+      "length": 124,
+      "color": "BW"
+    },
+    {
+      "title": "KISS ME DEADLY",
+      "director": "Robert Aldrich",
+      "year": 1955,
+      "country": "USA",
+      "length": 106,
+      "color": "BW"
+    },
+    {
+      "title": "HAROLD AND MAUDE",
+      "director": "Hal Ashby",
+      "year": 1971,
+      "country": "USA",
+      "length": 91,
+      "color": "Col"
+    },
+    {
+      "title": "TOUCH OF ZEN, A",
+      "director": "King Hu",
+      "year": 1971,
+      "country": "Taiwan",
+      "length": 200,
+      "color": "Col"
+    },
+    {
+      "title": "QUINCE TREE OF THE SUN",
+      "director": "Victor Erice",
+      "year": 1992,
+      "country": "Spain",
+      "length": 133,
+      "color": "Col"
+    },
+    {
+      "title": "DAYS OF BEING WILD",
+      "director": "Wong Kar-wai",
+      "year": 1990,
+      "country": "Hong Kong",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "PHILADELPHIA STORY, THE",
+      "director": "George Cukor",
+      "year": 1940,
+      "country": "USA",
+      "length": 112,
+      "color": "BW"
+    },
+    {
+      "title": "WEST SIDE STORY",
+      "director": "Robert Wise & Jerome Robbins",
+      "year": 1961,
+      "country": "USA",
+      "length": 151,
+      "color": "Col"
+    },
+    {
+      "title": "BERLIN ALEXANDERPLATZ",
+      "director": "Rainer Werner Fassbinder",
+      "year": 1980,
+      "country": "West Germany-Italy",
+      "length": 894,
+      "color": "Col"
+    },
+    {
+      "title": "HOUSE IS BLACK, THE",
+      "director": "Forugh Farrokhzad",
+      "year": 1963,
+      "country": "Iran",
+      "length": 20,
+      "color": "BW"
+    },
+    {
+      "title": "WANDA",
+      "director": "Barbara Loden",
+      "year": 1970,
+      "country": "USA",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "ALIENS",
+      "director": "James Cameron",
+      "year": 1986,
+      "country": "USA",
+      "length": 137,
+      "color": "Col"
+    },
+    {
+      "title": "HEAT",
+      "director": "Michael Mann",
+      "year": 1995,
+      "country": "USA",
+      "length": 174,
+      "color": "Col"
+    },
+    {
+      "title": "EYES WIDE SHUT",
+      "director": "Stanley Kubrick",
+      "year": 1999,
+      "country": "USA-UK",
+      "length": 159,
+      "color": "Col"
+    },
+    {
+      "title": "TO KILL A MOCKINGBIRD",
+      "director": "Robert Mulligan",
+      "year": 1962,
+      "country": "USA",
+      "length": 129,
+      "color": "BW"
+    },
+    {
+      "title": "TENANT, THE",
+      "director": "Roman Polanski",
+      "year": 1976,
+      "country": "France-USA",
+      "length": 125,
+      "color": "Col"
+    },
+    {
+      "title": "ORPHEUS",
+      "director": "Jean Cocteau",
+      "year": 1950,
+      "country": "France",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "I WAS BORN, BUT...",
+      "director": "Yasujiro Ozu",
+      "year": 1932,
+      "country": "Japan",
+      "length": 100,
+      "color": "BW"
+    },
+    {
+      "title": "AMADEUS",
+      "director": "Milos Forman",
+      "year": 1984,
+      "country": "USA",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "TIE XI QU: WEST OF THE TRACKS",
+      "director": "Wang Bing",
+      "year": 2003,
+      "country": "China",
+      "length": 551,
+      "color": "Col"
+    },
+    {
+      "title": "HAPPY TOGETHER",
+      "director": "Wong Kar-wai",
+      "year": 1997,
+      "country": "Hong Kong",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "INNOCENTS, THE",
+      "director": "Jack Clayton",
+      "year": 1961,
+      "country": "UK",
+      "length": 100,
+      "color": "BW"
+    },
+    {
+      "title": "LISTEN TO BRITAIN",
+      "director": "Humphrey Jennings",
+      "year": 1942,
+      "country": "UK",
+      "length": 20,
+      "color": "BW"
+    },
+    {
+      "title": "I AM CUBA",
+      "director": "Mikhail Kalatozov",
+      "year": 1964,
+      "country": "USSR-Cuba",
+      "length": 141,
+      "color": "BW"
+    },
+    {
+      "title": "HOW GREEN WAS MY VALLEY",
+      "director": "John Ford",
+      "year": 1941,
+      "country": "USA",
+      "length": 118,
+      "color": "BW"
+    },
+    {
+      "title": "GREEN RAY, THE",
+      "director": "Eric Rohmer",
+      "year": 1986,
+      "country": "France",
+      "length": 96,
+      "color": "Col"
+    },
+    {
+      "title": "KILLING OF A CHINESE BOOKIE, THE",
+      "director": "John Cassavetes",
+      "year": 1976,
+      "country": "USA",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "SILENCE OF THE LAMBS, THE",
+      "director": "Jonathan Demme",
+      "year": 1991,
+      "country": "USA",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "UNCLE BOONMEE WHO CAN RECALL HIS PAST LIVES",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2010,
+      "country": "Thailand-UK-France-Germany-Spain-Netherlands",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "TEOREMA",
+      "director": "Pier Paolo Pasolini",
+      "year": 1968,
+      "country": "Italy",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "YELLOW EARTH",
+      "director": "Chen Kaige",
+      "year": 1984,
+      "country": "China",
+      "length": 89,
+      "color": "Col"
+    },
+    {
+      "title": "SUSPIRIA",
+      "director": "Dario Argento",
+      "year": 1977,
+      "country": "Italy",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "DOGVILLE",
+      "director": "Lars von Trier",
+      "year": 2003,
+      "country": "Denmark-Sweden-France-UK-Germany-Finland-Italy-Netherlands-Norway",
+      "length": 177,
+      "color": "Col"
+    },
+    {
+      "title": "STROMBOLI",
+      "director": "Roberto Rossellini",
+      "year": 1950,
+      "country": "Italy",
+      "length": 107,
+      "color": "BW"
+    },
+    {
+      "title": "MARNIE",
+      "director": "Alfred Hitchcock",
+      "year": 1964,
+      "country": "USA",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "WRITTEN ON THE WIND",
+      "director": "Douglas Sirk",
+      "year": 1956,
+      "country": "USA",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "BROKEBACK MOUNTAIN",
+      "director": "Ang Lee",
+      "year": 2005,
+      "country": "USA-Canada",
+      "length": 134,
+      "color": "Col"
+    },
+    {
+      "title": "CARRIE",
+      "director": "Brian De Palma",
+      "year": 1976,
+      "country": "USA",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "HIGH NOON",
+      "director": "Fred Zinnemann",
+      "year": 1952,
+      "country": "USA",
+      "length": 84,
+      "color": "BW"
+    },
+    {
+      "title": "LOLA MONTÈS",
+      "director": "Max Ophüls",
+      "year": 1955,
+      "country": "France-West Germany",
+      "length": 116,
+      "color": "Col"
+    },
+    {
+      "title": "SALVATORE GIULIANO",
+      "director": "Francesco Rosi",
+      "year": 1962,
+      "country": "Italy",
+      "length": 125,
+      "color": "BW"
+    },
+    {
+      "title": "PLATFORM",
+      "director": "Jia Zhangke",
+      "year": 2000,
+      "country": "China-Hong Kong-Japan-France",
+      "length": 154,
+      "color": "Col"
+    },
+    {
+      "title": "ELEPHANT MAN, THE",
+      "director": "David Lynch",
+      "year": 1980,
+      "country": "USA",
+      "length": 125,
+      "color": "BW"
+    },
+    {
+      "title": "LAND WITHOUT BREAD",
+      "director": "Luis Buñuel",
+      "year": 1932,
+      "country": "Spain",
+      "length": 28,
+      "color": "BW"
+    },
+    {
+      "title": "WERCKMEISTER HARMONIES",
+      "director": "Béla Tarr",
+      "year": 2000,
+      "country": "Hungary-Germany-France-Switzerland-Italy",
+      "length": 145,
+      "color": "BW"
+    },
+    {
+      "title": "HIGH AND LOW",
+      "director": "Akira Kurosawa",
+      "year": 1963,
+      "country": "Japan",
+      "length": 142,
+      "color": "BW"
+    },
+    {
+      "title": "THROUGH THE OLIVE TREES",
+      "director": "Abbas Kiarostami",
+      "year": 1994,
+      "country": "Iran-France",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "IF….",
+      "director": "Lindsay Anderson",
+      "year": 1968,
+      "country": "UK",
+      "length": 111,
+      "color": "Col-BW"
+    },
+    {
+      "title": "LAST TANGO IN PARIS",
+      "director": "Bernardo Bertolucci",
+      "year": 1972,
+      "country": "France-Italy",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "YOUNG GIRLS OF ROCHEFORT, THE",
+      "director": "Jacques Demy",
+      "year": 1967,
+      "country": "France",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "LOST HIGHWAY",
+      "director": "David Lynch",
+      "year": 1997,
+      "country": "USA-France",
+      "length": 134,
+      "color": "Col"
+    },
+    {
+      "title": "I KNOW WHERE I'M GOING!",
+      "director": "Michael Powell & Emeric Pressburger",
+      "year": 1945,
+      "country": "UK",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "SEPARATION, A",
+      "director": "Asghar Farhadi",
+      "year": 2011,
+      "country": "Iran",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "PALM BEACH STORY, THE",
+      "director": "Preston Sturges",
+      "year": 1942,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "LOST IN TRANSLATION",
+      "director": "Sofia Coppola",
+      "year": 2003,
+      "country": "USA-Japan",
+      "length": 102,
+      "color": "Col"
+    },
+    {
+      "title": "TURIN HORSE, THE",
+      "director": "Béla Tarr",
+      "year": 2011,
+      "country": "Hungary-France-Germany-Switzerland-USA",
+      "length": 146,
+      "color": "BW"
+    },
+    {
+      "title": "RUSSIAN ARK",
+      "director": "Aleksandr Sokurov",
+      "year": 2002,
+      "country": "Russia-Germany-Japan-Canada-Finland-Denmark",
+      "length": 96,
+      "color": "Col"
+    },
+    {
+      "title": "EL",
+      "director": "Luis Buñuel",
+      "year": 1953,
+      "country": "Mexico",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "WALL-E",
+      "director": "Andrew Stanton",
+      "year": 2008,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "TALK TO HER",
+      "director": "Pedro Almodóvar",
+      "year": 2002,
+      "country": "Spain",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "WOMAN IN THE DUNES",
+      "director": "Hiroshi Teshigahara",
+      "year": 1964,
+      "country": "Japan",
+      "length": 127,
+      "color": "BW"
+    },
+    {
+      "title": "CROUCHING TIGER, HIDDEN DRAGON",
+      "director": "Ang Lee",
+      "year": 2000,
+      "country": "Taiwan-Hong Kong-USA-China",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "CRIME OF MONSIEUR LANGE, THE",
+      "director": "Jean Renoir",
+      "year": 1936,
+      "country": "France",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "BRIDGE ON THE RIVER KWAI, THE",
+      "director": "David Lean",
+      "year": 1957,
+      "country": "UK",
+      "length": 161,
+      "color": "Col"
+    },
+    {
+      "title": "OCTOBER",
+      "director": "Sergei Eisenstein & Grigori Aleksandrov",
+      "year": 1928,
+      "country": "USSR",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "GLEANERS & I, THE",
+      "director": "Agnès Varda",
+      "year": 2000,
+      "country": "France",
+      "length": 82,
+      "color": "Col"
+    },
+    {
+      "title": "NETWORK",
+      "director": "Sidney Lumet",
+      "year": 1976,
+      "country": "USA",
+      "length": 121,
+      "color": "Col"
+    },
+    {
+      "title": "MON ONCLE",
+      "director": "Jacques Tati",
+      "year": 1958,
+      "country": "France",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "NOSTALGHIA",
+      "director": "Andrei Tarkovsky",
+      "year": 1983,
+      "country": "Italy",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "DON'T LOOK BACK",
+      "director": "D.A. Pennebaker",
+      "year": 1967,
+      "country": "USA",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "KING OF COMEDY, THE",
+      "director": "Martin Scorsese",
+      "year": 1983,
+      "country": "USA",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "ARMY OF SHADOWS",
+      "director": "Jean-Pierre Melville",
+      "year": 1969,
+      "country": "France-Italy",
+      "length": 140,
+      "color": "Col"
+    },
+    {
+      "title": "VOYAGE DANS LA LUNE, LE",
+      "director": "Georges Méliès",
+      "year": 1902,
+      "country": "France",
+      "length": 14,
+      "color": "BW"
+    },
+    {
+      "title": "FESTEN",
+      "director": "Thomas Vinterberg",
+      "year": 1998,
+      "country": "Denmark",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "À NOS AMOURS",
+      "director": "Maurice Pialat",
+      "year": 1983,
+      "country": "France",
+      "length": 102,
+      "color": "Col"
+    },
+    {
+      "title": "WHITE RIBBON, THE",
+      "director": "Michael Haneke",
+      "year": 2009,
+      "country": "Germany-Austria-France-Italy",
+      "length": 144,
+      "color": "BW"
+    },
+    {
+      "title": "TRISTANA",
+      "director": "Luis Buñuel",
+      "year": 1970,
+      "country": "Spain-Italy-France",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "HEAVEN'S GATE",
+      "director": "Michael Cimino",
+      "year": 1980,
+      "country": "USA",
+      "length": 219,
+      "color": "Col"
+    },
+    {
+      "title": "ALL THAT HEAVEN ALLOWS",
+      "director": "Douglas Sirk",
+      "year": 1955,
+      "country": "USA",
+      "length": 89,
+      "color": "Col"
+    },
+    {
+      "title": "BUTCH CASSIDY AND THE SUNDANCE KID",
+      "director": "George Roy Hill",
+      "year": 1969,
+      "country": "USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "IVAN'S CHILDHOOD",
+      "director": "Andrei Tarkovsky",
+      "year": 1962,
+      "country": "USSR",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "YOJIMBO",
+      "director": "Akira Kurosawa",
+      "year": 1961,
+      "country": "Japan",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "DOUBLE LIFE OF VERONIQUE, THE",
+      "director": "Krzysztof Kieslowski",
+      "year": 1991,
+      "country": "France",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "PINOCCHIO",
+      "director": "Ben Sharpsteen & Hamilton Luske",
+      "year": 1940,
+      "country": "USA",
+      "length": 88,
+      "color": "Col"
+    },
+    {
+      "title": "1900",
+      "director": "Bernardo Bertolucci",
+      "year": 1976,
+      "country": "Italy-France-West Germany",
+      "length": 245,
+      "color": "Col"
+    },
+    {
+      "title": "BARREN LIVES",
+      "director": "Nelson Pereira dos Santos",
+      "year": 1963,
+      "country": "Brazil",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "LANDSCAPE IN THE MIST",
+      "director": "Theo Angelopoulos",
+      "year": 1988,
+      "country": "Greece-Italy-France",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "AFFAIR TO REMEMBER, AN",
+      "director": "Leo McCarey",
+      "year": 1957,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "RAISE THE RED LANTERN",
+      "director": "Zhang Yimou",
+      "year": 1991,
+      "country": "China-Hong Kong-Taiwan",
+      "length": 125,
+      "color": "Col"
+    },
+    {
+      "title": "SHOOT THE PIANO PLAYER",
+      "director": "François Truffaut",
+      "year": 1960,
+      "country": "France",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "FITZCARRALDO",
+      "director": "Werner Herzog",
+      "year": 1982,
+      "country": "West Germany",
+      "length": 157,
+      "color": "Col"
+    },
+    {
+      "title": "AWFUL TRUTH, THE",
+      "director": "Leo McCarey",
+      "year": 1937,
+      "country": "USA",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "IN A YEAR WITH 13 MOONS",
+      "director": "Rainer Werner Fassbinder",
+      "year": 1978,
+      "country": "West Germany",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "TASTE OF CHERRY",
+      "director": "Abbas Kiarostami",
+      "year": 1997,
+      "country": "Iran",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "SCARLET EMPRESS, THE",
+      "director": "Josef von Sternberg",
+      "year": 1934,
+      "country": "USA",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "CHARULATA",
+      "director": "Satyajit Ray",
+      "year": 1964,
+      "country": "India",
+      "length": 117,
+      "color": "BW"
+    },
+    {
+      "title": "MONTY PYTHON'S LIFE OF BRIAN",
+      "director": "Terry Jones",
+      "year": 1979,
+      "country": "UK",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "DEATH OF MR. LAZARESCU, THE",
+      "director": "Cristi Puiu",
+      "year": 2005,
+      "country": "Romania",
+      "length": 154,
+      "color": "Col"
+    },
+    {
+      "title": "PUNCH-DRUNK LOVE",
+      "director": "Paul Thomas Anderson",
+      "year": 2002,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "MAN OF ARAN",
+      "director": "Robert Flaherty",
+      "year": 1934,
+      "country": "UK",
+      "length": 77,
+      "color": "BW"
+    },
+    {
+      "title": "OPENING NIGHT",
+      "director": "John Cassavetes",
+      "year": 1977,
+      "country": "USA",
+      "length": 144,
+      "color": "Col"
+    },
+    {
+      "title": "DAY FOR NIGHT",
+      "director": "François Truffaut",
+      "year": 1973,
+      "country": "France",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "CLOUD-CAPPED STAR, THE",
+      "director": "Ritwik Ghatak",
+      "year": 1960,
+      "country": "India",
+      "length": 126,
+      "color": "BW"
+    },
+    {
+      "title": "SORROW AND THE PITY, THE",
+      "director": "Marcel Ophüls",
+      "year": 1969,
+      "country": "France-Switzerland-Germany",
+      "length": 260,
+      "color": "BW"
+    },
+    {
+      "title": "STAR IS BORN, A",
+      "director": "George Cukor",
+      "year": 1954,
+      "country": "USA",
+      "length": 154,
+      "color": "Col"
+    },
+    {
+      "title": "LONG GOODBYE, THE",
+      "director": "Robert Altman",
+      "year": 1973,
+      "country": "USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "REPULSION",
+      "director": "Roman Polanski",
+      "year": 1965,
+      "country": "UK",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "HALLOWEEN",
+      "director": "John Carpenter",
+      "year": 1978,
+      "country": "USA",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "TWO-LANE BLACKTOP",
+      "director": "Monte Hellman",
+      "year": 1971,
+      "country": "USA",
+      "length": 101,
+      "color": "Col"
+    },
+    {
+      "title": "FIVE EASY PIECES",
+      "director": "Bob Rafelson",
+      "year": 1970,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "DEAD RINGERS",
+      "director": "David Cronenberg",
+      "year": 1988,
+      "country": "Canada",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "SCENES FROM A MARRIAGE",
+      "director": "Ingmar Bergman",
+      "year": 1973,
+      "country": "Sweden",
+      "length": 168,
+      "color": "Col"
+    },
+    {
+      "title": "DEAD MAN",
+      "director": "Jim Jarmusch",
+      "year": 1995,
+      "country": "USA-Germany",
+      "length": 121,
+      "color": "BW"
+    },
+    {
+      "title": "HUSTLER, THE",
+      "director": "Robert Rossen",
+      "year": 1961,
+      "country": "USA",
+      "length": 135,
+      "color": "BW"
+    },
+    {
+      "title": "SHADOWS",
+      "director": "John Cassavetes",
+      "year": 1959,
+      "country": "USA",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "TERMINATOR, THE",
+      "director": "James Cameron",
+      "year": 1984,
+      "country": "USA",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "FLOWERS OF SHANGHAI",
+      "director": "Hou Hsiao-hsien",
+      "year": 1998,
+      "country": "Taiwan",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "SHAWSHANK REDEMPTION, THE",
+      "director": "Frank Darabont",
+      "year": 1994,
+      "country": "USA",
+      "length": 142,
+      "color": "Col"
+    },
+    {
+      "title": "FLOWERS OF ST. FRANCIS, THE",
+      "director": "Roberto Rossellini",
+      "year": 1950,
+      "country": "Italy",
+      "length": 83,
+      "color": "BW"
+    },
+    {
+      "title": "MOMENT OF INNOCENCE, A",
+      "director": "Mohsen Makhmalbaf",
+      "year": 1996,
+      "country": "Iran-France",
+      "length": 78,
+      "color": "Col"
+    },
+    {
+      "title": "ELEPHANT",
+      "director": "Gus Van Sant",
+      "year": 2003,
+      "country": "USA",
+      "length": 81,
+      "color": "Col"
+    },
+    {
+      "title": "DEAD, THE",
+      "director": "John Huston",
+      "year": 1987,
+      "country": "USA",
+      "length": 83,
+      "color": "Col"
+    },
+    {
+      "title": "EASY RIDER",
+      "director": "Dennis Hopper",
+      "year": 1969,
+      "country": "USA",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "ACCATTONE",
+      "director": "Pier Paolo Pasolini",
+      "year": 1961,
+      "country": "Italy",
+      "length": 120,
+      "color": "BW"
+    },
+    {
+      "title": "CAMERAMAN, THE",
+      "director": "Buster Keaton & Edward Sedgwick",
+      "year": 1928,
+      "country": "USA",
+      "length": 69,
+      "color": "BW"
+    },
+    {
+      "title": "CAT PEOPLE",
+      "director": "Jacques Tourneur",
+      "year": 1942,
+      "country": "USA",
+      "length": 73,
+      "color": "BW"
+    },
+    {
+      "title": "SENSO",
+      "director": "Luchino Visconti",
+      "year": 1954,
+      "country": "Italy",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "NAKED",
+      "director": "Mike Leigh",
+      "year": 1993,
+      "country": "UK",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "OUT 1, NOLI ME TANGERE",
+      "director": "Jacques Rivette",
+      "year": 1971,
+      "country": "France",
+      "length": 729,
+      "color": "Col-BW"
+    },
+    {
+      "title": "HOOP DREAMS",
+      "director": "Steve James",
+      "year": 1994,
+      "country": "USA",
+      "length": 170,
+      "color": "Col"
+    },
+    {
+      "title": "WITHNAIL & I",
+      "director": "Bruce Robinson",
+      "year": 1987,
+      "country": "UK",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "HOUR OF THE FURNACES, THE",
+      "director": "Octavio Getino & Fernando E. Solanas",
+      "year": 1968,
+      "country": "Argentina",
+      "length": 260,
+      "color": "BW"
+    },
+    {
+      "title": "PLAISIR, LE",
+      "director": "Max Ophüls",
+      "year": 1952,
+      "country": "France",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "SOME CAME RUNNING",
+      "director": "Vincente Minnelli",
+      "year": 1958,
+      "country": "USA",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "ALL THE PRESIDENT'S MEN",
+      "director": "Alan J. Pakula",
+      "year": 1976,
+      "country": "USA",
+      "length": 138,
+      "color": "Col"
+    },
+    {
+      "title": "FIGHT CLUB",
+      "director": "David Fincher",
+      "year": 1999,
+      "country": "USA-Germany",
+      "length": 139,
+      "color": "Col"
+    },
+    {
+      "title": "LADY FROM SHANGHAI, THE",
+      "director": "Orson Welles",
+      "year": 1948,
+      "country": "USA",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "ALL THAT JAZZ",
+      "director": "Bob Fosse",
+      "year": 1979,
+      "country": "USA",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "CLOSELY WATCHED TRAINS",
+      "director": "Jirí Menzel",
+      "year": 1966,
+      "country": "Czechoslovakia",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "CRANES ARE FLYING, THE",
+      "director": "Mikhail Kalatozov",
+      "year": 1957,
+      "country": "USSR",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "FANTASIA",
+      "director": "Various Directors",
+      "year": 1940,
+      "country": "USA",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "FRANKENSTEIN",
+      "director": "James Whale",
+      "year": 1931,
+      "country": "USA",
+      "length": 70,
+      "color": "BW"
+    },
+    {
+      "title": "MELANCHOLIA",
+      "director": "Lars von Trier",
+      "year": 2011,
+      "country": "Denmark-Sweden-France-Germany",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "SHANE",
+      "director": "George Stevens",
+      "year": 1953,
+      "country": "USA",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "SHADOWS OF OUR FORGOTTEN ANCESTORS",
+      "director": "Sergei Parajanov",
+      "year": 1964,
+      "country": "USSR",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "PYAASA",
+      "director": "Guru Dutt",
+      "year": 1957,
+      "country": "India",
+      "length": 146,
+      "color": "BW"
+    },
+    {
+      "title": "DERSU UZALA",
+      "director": "Akira Kurosawa",
+      "year": 1975,
+      "country": "USSR-Japan",
+      "length": 144,
+      "color": "Col"
+    },
+    {
+      "title": "CHELSEA GIRLS",
+      "director": "Andy Warhol",
+      "year": 1966,
+      "country": "USA",
+      "length": 210,
+      "color": "Col-BW"
+    },
+    {
+      "title": "MAD MAX 2",
+      "director": "George Miller",
+      "year": 1981,
+      "country": "Australia",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "SAFE",
+      "director": "Todd Haynes",
+      "year": 1995,
+      "country": "USA",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "FRENCH CANCAN",
+      "director": "Jean Renoir",
+      "year": 1955,
+      "country": "France",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "TREE OF WOODEN CLOGS, THE",
+      "director": "Ermanno Olmi",
+      "year": 1978,
+      "country": "Italy",
+      "length": 185,
+      "color": "Col"
+    },
+    {
+      "title": "OLDBOY",
+      "director": "Park Chan-wook",
+      "year": 2003,
+      "country": "South Korea",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "POINT BLANK",
+      "director": "John Boorman",
+      "year": 1967,
+      "country": "USA",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "LIMITE",
+      "director": "Mario Peixoto",
+      "year": 1931,
+      "country": "Brazil",
+      "length": 114,
+      "color": "BW"
+    },
+    {
+      "title": "VAGABOND",
+      "director": "Agnès Varda",
+      "year": 1985,
+      "country": "France",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "GREY GARDENS",
+      "director": "David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer",
+      "year": 1975,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "A.I. ARTIFICIAL INTELLIGENCE",
+      "director": "Steven Spielberg",
+      "year": 2001,
+      "country": "USA",
+      "length": 145,
+      "color": "Col"
+    },
+    {
+      "title": "WIND, THE",
+      "director": "Victor Sjöström",
+      "year": 1928,
+      "country": "USA",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "LAURA",
+      "director": "Otto Preminger",
+      "year": 1944,
+      "country": "USA",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "TRIUMPH OF THE WILL",
+      "director": "Leni Riefenstahl",
+      "year": 1935,
+      "country": "Germany",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "TOOTSIE",
+      "director": "Sydney Pollack",
+      "year": 1982,
+      "country": "USA",
+      "length": 116,
+      "color": "Col"
+    },
+    {
+      "title": "HOUR OF THE WOLF",
+      "director": "Ingmar Bergman",
+      "year": 1968,
+      "country": "Sweden",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "INLAND EMPIRE",
+      "director": "David Lynch",
+      "year": 2006,
+      "country": "USA-France-Poland",
+      "length": 180,
+      "color": "Col"
+    },
+    {
+      "title": "CHRONICLE OF A SUMMER",
+      "director": "Jean Rouch & Edgar Morin",
+      "year": 1961,
+      "country": "France",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "TO HAVE AND HAVE NOT",
+      "director": "Howard Hawks",
+      "year": 1944,
+      "country": "USA",
+      "length": 100,
+      "color": "BW"
+    },
+    {
+      "title": "SOUND OF MUSIC, THE",
+      "director": "Robert Wise",
+      "year": 1965,
+      "country": "USA",
+      "length": 174,
+      "color": "Col"
+    },
+    {
+      "title": "INDIA SONG",
+      "director": "Marguerite Duras",
+      "year": 1975,
+      "country": "France",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "TOY STORY",
+      "director": "John Lasseter",
+      "year": 1995,
+      "country": "USA",
+      "length": 80,
+      "color": "Col"
+    },
+    {
+      "title": "ALEXANDER NEVSKY",
+      "director": "Sergei Eisenstein",
+      "year": 1938,
+      "country": "USSR",
+      "length": 107,
+      "color": "BW"
+    },
+    {
+      "title": "BOOGIE NIGHTS",
+      "director": "Paul Thomas Anderson",
+      "year": 1997,
+      "country": "USA",
+      "length": 155,
+      "color": "Col"
+    },
+    {
+      "title": "LIVES OF OTHERS, THE",
+      "director": "Florian Henckel von Donnersmarck",
+      "year": 2006,
+      "country": "Germany",
+      "length": 138,
+      "color": "Col"
+    },
+    {
+      "title": "SHADOW OF A DOUBT",
+      "director": "Alfred Hitchcock",
+      "year": 1943,
+      "country": "USA",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "SHORT CUTS",
+      "director": "Robert Altman",
+      "year": 1993,
+      "country": "USA",
+      "length": 189,
+      "color": "Col"
+    },
+    {
+      "title": "KOYAANISQATSI",
+      "director": "Godfrey Reggio",
+      "year": 1982,
+      "country": "USA",
+      "length": 87,
+      "color": "Col"
+    },
+    {
+      "title": "STRANGERS ON A TRAIN",
+      "director": "Alfred Hitchcock",
+      "year": 1951,
+      "country": "USA",
+      "length": 101,
+      "color": "BW"
+    },
+    {
+      "title": "WIND WILL CARRY US, THE",
+      "director": "Abbas Kiarostami",
+      "year": 1999,
+      "country": "France-Iran",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "ORLANDO",
+      "director": "Sally Potter",
+      "year": 1992,
+      "country": "UK-Russia-France-Italy-Netherlands",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "12 ANGRY MEN",
+      "director": "Sidney Lumet",
+      "year": 1957,
+      "country": "USA",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "ALPHAVILLE",
+      "director": "Jean-Luc Godard",
+      "year": 1965,
+      "country": "France",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "MURIEL",
+      "director": "Alain Resnais",
+      "year": 1963,
+      "country": "France-Italy",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "GRIZZLY MAN",
+      "director": "Werner Herzog",
+      "year": 2005,
+      "country": "USA",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "KAGEMUSHA",
+      "director": "Akira Kurosawa",
+      "year": 1980,
+      "country": "Japan",
+      "length": 159,
+      "color": "Col"
+    },
+    {
+      "title": "DIE HARD",
+      "director": "John McTiernan",
+      "year": 1988,
+      "country": "USA",
+      "length": 131,
+      "color": "Col"
+    },
+    {
+      "title": "WINTER LIGHT",
+      "director": "Ingmar Bergman",
+      "year": 1962,
+      "country": "Sweden",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "NO COUNTRY FOR OLD MEN",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 2007,
+      "country": "USA",
+      "length": 122,
+      "color": "Col"
+    },
+    {
+      "title": "NIGHT AT THE OPERA, A",
+      "director": "Sam Wood",
+      "year": 1935,
+      "country": "USA",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "SONGS FROM THE SECOND FLOOR",
+      "director": "Roy Andersson",
+      "year": 2000,
+      "country": "Sweden-France-Denmark-Norway-Germany",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "MASCULIN FEMININ",
+      "director": "Jean-Luc Godard",
+      "year": 1966,
+      "country": "France-Sweden",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "STEAMBOAT BILL, JR.",
+      "director": "Buster Keaton & Charles Reisner",
+      "year": 1928,
+      "country": "USA",
+      "length": 71,
+      "color": "BW"
+    },
+    {
+      "title": "TERRA TREMA, LA",
+      "director": "Luchino Visconti",
+      "year": 1948,
+      "country": "Italy",
+      "length": 160,
+      "color": "BW"
+    },
+    {
+      "title": "GIMME SHELTER",
+      "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+      "year": 1970,
+      "country": "USA",
+      "length": 91,
+      "color": "Col"
+    },
+    {
+      "title": "EARLY SUMMER",
+      "director": "Yasujiro Ozu",
+      "year": 1951,
+      "country": "Japan",
+      "length": 135,
+      "color": "BW"
+    },
+    {
+      "title": "DEVIL, PROBABLY, THE",
+      "director": "Robert Bresson",
+      "year": 1977,
+      "country": "France",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "PAN'S LABYRINTH",
+      "director": "Guillermo del Toro",
+      "year": 2006,
+      "country": "Spain-Mexico-USA",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "TOP HAT",
+      "director": "Mark Sandrich",
+      "year": 1935,
+      "country": "USA",
+      "length": 99,
+      "color": "BW"
+    },
+    {
+      "title": "FORREST GUMP",
+      "director": "Robert Zemeckis",
+      "year": 1994,
+      "country": "USA",
+      "length": 142,
+      "color": "Col"
+    },
+    {
+      "title": "DAMNED, THE",
+      "director": "Luchino Visconti",
+      "year": 1969,
+      "country": "Italy-West Germany",
+      "length": 155,
+      "color": "Col"
+    },
+    {
+      "title": "BIG HEAT, THE",
+      "director": "Fritz Lang",
+      "year": 1953,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "FAREWELL, MY CONCUBINE",
+      "director": "Chen Kaige",
+      "year": 1993,
+      "country": "China-Hong Kong",
+      "length": 155,
+      "color": "Col"
+    },
+    {
+      "title": "LIMELIGHT",
+      "director": "Charles Chaplin",
+      "year": 1952,
+      "country": "USA",
+      "length": 145,
+      "color": "BW"
+    },
+    {
+      "title": "BITTER TEARS OF PETRA VON KANT, THE",
+      "director": "Rainer Werner Fassbinder",
+      "year": 1972,
+      "country": "West Germany",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "BARTON FINK",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 1991,
+      "country": "USA",
+      "length": 117,
+      "color": "Col"
+    },
+    {
+      "title": "ROYAL TENENBAUMS, THE",
+      "director": "Wes Anderson",
+      "year": 2001,
+      "country": "USA",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "VAMPIRES, LES",
+      "director": "Louis Feuillade",
+      "year": 1915,
+      "country": "France",
+      "length": 440,
+      "color": "BW"
+    },
+    {
+      "title": "RÉGION CENTRALE, LA",
+      "director": "Michael Snow",
+      "year": 1971,
+      "country": "Canada",
+      "length": 180,
+      "color": "Col"
+    },
+    {
+      "title": "AMÉLIE",
+      "director": "Jean-Pierre Jeunet",
+      "year": 2001,
+      "country": "France-Germany",
+      "length": 122,
+      "color": "Col"
+    },
+    {
+      "title": "SPLENDOR IN THE GRASS",
+      "director": "Elia Kazan",
+      "year": 1961,
+      "country": "USA",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "TERMINATOR 2: JUDGMENT DAY",
+      "director": "James Cameron",
+      "year": 1991,
+      "country": "USA",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "EAST OF EDEN",
+      "director": "Elia Kazan",
+      "year": 1955,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "HANNAH AND HER SISTERS",
+      "director": "Woody Allen",
+      "year": 1986,
+      "country": "USA",
+      "length": 106,
+      "color": "Col"
+    },
+    {
+      "title": "VITELLONI, I",
+      "director": "Federico Fellini",
+      "year": 1953,
+      "country": "Italy",
+      "length": 104,
+      "color": "BW"
+    },
+    {
+      "title": "MARKETA LAZAROVÁ",
+      "director": "Frantisek Vlácil",
+      "year": 1967,
+      "country": "Czechoslovakia",
+      "length": 162,
+      "color": "BW"
+    },
+    {
+      "title": "COLOSSAL YOUTH",
+      "director": "Pedro Costa",
+      "year": 2006,
+      "country": "France-Portugal-Switzerland",
+      "length": 155,
+      "color": "Col"
+    },
+    {
+      "title": "ENIGMA OF KASPAR HAUSER, THE",
+      "director": "Werner Herzog",
+      "year": 1974,
+      "country": "West Germany",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "FAUST",
+      "director": "F.W. Murnau",
+      "year": 1926,
+      "country": "Germany",
+      "length": 116,
+      "color": "BW"
+    },
+    {
+      "title": "DOCTOR ZHIVAGO",
+      "director": "David Lean",
+      "year": 1965,
+      "country": "USA",
+      "length": 197,
+      "color": "Col"
+    },
+    {
+      "title": "SERVANT, THE",
+      "director": "Joseph Losey",
+      "year": 1963,
+      "country": "UK",
+      "length": 115,
+      "color": "BW"
+    },
+    {
+      "title": "SE7EN",
+      "director": "David Fincher",
+      "year": 1995,
+      "country": "USA",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "PAT GARRETT AND BILLY THE KID",
+      "director": "Sam Peckinpah",
+      "year": 1973,
+      "country": "USA",
+      "length": 122,
+      "color": "Col"
+    },
+    {
+      "title": "FELLINI SATYRICON",
+      "director": "Federico Fellini",
+      "year": 1969,
+      "country": "Italy",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "MIRACLE IN MILAN",
+      "director": "Vittorio De Sica",
+      "year": 1951,
+      "country": "Italy",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "LOLA",
+      "director": "Jacques Demy",
+      "year": 1961,
+      "country": "France",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "DELIVERANCE",
+      "director": "John Boorman",
+      "year": 1972,
+      "country": "USA",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "PHANTOM OF LIBERTY, THE",
+      "director": "Luis Buñuel",
+      "year": 1974,
+      "country": "France",
+      "length": 104,
+      "color": "Col"
+    },
+    {
+      "title": "NINOTCHKA",
+      "director": "Ernst Lubitsch",
+      "year": 1939,
+      "country": "USA",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "WAGON MASTER",
+      "director": "John Ford",
+      "year": 1950,
+      "country": "USA",
+      "length": 86,
+      "color": "BW"
+    },
+    {
+      "title": "RISE TO POWER OF LOUIS XIV, THE",
+      "director": "Roberto Rossellini",
+      "year": 1966,
+      "country": "France",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "ALICE IN THE CITIES",
+      "director": "Wim Wenders",
+      "year": 1974,
+      "country": "West Germany",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "SHOCK CORRIDOR",
+      "director": "Samuel Fuller",
+      "year": 1963,
+      "country": "USA",
+      "length": 101,
+      "color": "BW"
+    },
+    {
+      "title": "AMANTS DU PONT-NEUF, LES",
+      "director": "Leos Carax",
+      "year": 1991,
+      "country": "France",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "BIGGER THAN LIFE",
+      "director": "Nicholas Ray",
+      "year": 1956,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "EVIL DEAD II",
+      "director": "Sam Raimi",
+      "year": 1987,
+      "country": "USA",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "BEING THERE",
+      "director": "Hal Ashby",
+      "year": 1979,
+      "country": "USA",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "SECRETS & LIES",
+      "director": "Mike Leigh",
+      "year": 1996,
+      "country": "UK",
+      "length": 142,
+      "color": "Col"
+    },
+    {
+      "title": "IN VANDA'S ROOM",
+      "director": "Pedro Costa",
+      "year": 2000,
+      "country": "Portugal-Germany-Switzerland-Italy",
+      "length": 170,
+      "color": "Col"
+    },
+    {
+      "title": "REBEL WITHOUT A CAUSE",
+      "director": "Nicholas Ray",
+      "year": 1955,
+      "country": "USA",
+      "length": 111,
+      "color": "Col"
+    },
+    {
+      "title": "HARD DAY'S NIGHT, A",
+      "director": "Richard Lester",
+      "year": 1964,
+      "country": "UK",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "SILENT LIGHT",
+      "director": "Carlos Reygadas",
+      "year": 2007,
+      "country": "Mexico-France-Netherlands",
+      "length": 136,
+      "color": "Col"
+    },
+    {
+      "title": "CASINO",
+      "director": "Martin Scorsese",
+      "year": 1995,
+      "country": "USA",
+      "length": 182,
+      "color": "Col"
+    },
+    {
+      "title": "BELLE NOISEUSE, LA",
+      "director": "Jacques Rivette",
+      "year": 1991,
+      "country": "France",
+      "length": 240,
+      "color": "Col"
+    },
+    {
+      "title": "MY OWN PRIVATE IDAHO",
+      "director": "Gus Van Sant",
+      "year": 1991,
+      "country": "USA",
+      "length": 102,
+      "color": "Col"
+    },
+    {
+      "title": "RAISING ARIZONA",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 1987,
+      "country": "USA",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "KILLING, THE",
+      "director": "Stanley Kubrick",
+      "year": 1956,
+      "country": "USA",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "TRAINSPOTTING",
+      "director": "Danny Boyle",
+      "year": 1996,
+      "country": "UK",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "SCARFACE",
+      "director": "Howard Hawks",
+      "year": 1932,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "LOCAL HERO",
+      "director": "Bill Forsyth",
+      "year": 1983,
+      "country": "UK",
+      "length": 111,
+      "color": "Col"
+    },
+    {
+      "title": "BOUDU SAVED FROM DROWNING",
+      "director": "Jean Renoir",
+      "year": 1932,
+      "country": "France",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "TALE OF TALES",
+      "director": "Yuriy Norshteyn",
+      "year": 1979,
+      "country": "USSR",
+      "length": 29,
+      "color": "Col"
+    },
+    {
+      "title": "DETOUR",
+      "director": "Edgar G. Ulmer",
+      "year": 1945,
+      "country": "USA",
+      "length": 69,
+      "color": "BW"
+    },
+    {
+      "title": "4 MONTHS, 3 WEEKS AND 2 DAYS",
+      "director": "Cristian Mungiu",
+      "year": 2007,
+      "country": "Romania-Netherlands-France-Germany",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "THAT OBSCURE OBJECT OF DESIRE",
+      "director": "Luis Buñuel",
+      "year": 1977,
+      "country": "France-Spain",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "MANCHURIAN CANDIDATE, THE",
+      "director": "John Frankenheimer",
+      "year": 1962,
+      "country": "USA",
+      "length": 126,
+      "color": "BW"
+    },
+    {
+      "title": "HANA-BI",
+      "director": "Takeshi Kitano",
+      "year": 1997,
+      "country": "Japan",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "CIÉNAGA, LA",
+      "director": "Lucrecia Martel",
+      "year": 2001,
+      "country": "Argentina-France-Spain",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "PROVIDENCE",
+      "director": "Alain Resnais",
+      "year": 1977,
+      "country": "France-Switzerland",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "HARLAN COUNTY, U.S.A.",
+      "director": "Barbara Kopple",
+      "year": 1976,
+      "country": "USA",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "AND LIFE GOES ON...",
+      "director": "Abbas Kiarostami",
+      "year": 1992,
+      "country": "Iran",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "APARAJITO",
+      "director": "Satyajit Ray",
+      "year": 1956,
+      "country": "India",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "DOWN BY LAW",
+      "director": "Jim Jarmusch",
+      "year": 1986,
+      "country": "USA",
+      "length": 107,
+      "color": "BW"
+    },
+    {
+      "title": "ASPHALT JUNGLE, THE",
+      "director": "John Huston",
+      "year": 1950,
+      "country": "USA",
+      "length": 112,
+      "color": "BW"
+    },
+    {
+      "title": "ROCKY",
+      "director": "John G. Avildsen",
+      "year": 1976,
+      "country": "USA",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "SCORPIO RISING",
+      "director": "Kenneth Anger",
+      "year": 1963,
+      "country": "USA",
+      "length": 29,
+      "color": "Col"
+    },
+    {
+      "title": "HATARI!",
+      "director": "Howard Hawks",
+      "year": 1962,
+      "country": "USA",
+      "length": 159,
+      "color": "Col"
+    },
+    {
+      "title": "PICNIC AT HANGING ROCK",
+      "director": "Peter Weir",
+      "year": 1975,
+      "country": "Australia",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "FULL METAL JACKET",
+      "director": "Stanley Kubrick",
+      "year": 1987,
+      "country": "USA",
+      "length": 116,
+      "color": "Col"
+    },
+    {
+      "title": "RUSHMORE",
+      "director": "Wes Anderson",
+      "year": 1998,
+      "country": "USA",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "CHILDREN OF MEN",
+      "director": "Alfonso Cuarón",
+      "year": 2006,
+      "country": "USA-UK",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "FLY, THE",
+      "director": "David Cronenberg",
+      "year": 1986,
+      "country": "USA",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "FRENCH CONNECTION, THE",
+      "director": "William Friedkin",
+      "year": 1971,
+      "country": "USA",
+      "length": 104,
+      "color": "Col"
+    },
+    {
+      "title": "ZODIAC",
+      "director": "David Fincher",
+      "year": 2007,
+      "country": "USA",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "I WALKED WITH A ZOMBIE",
+      "director": "Jacques Tourneur",
+      "year": 1943,
+      "country": "USA",
+      "length": 69,
+      "color": "BW"
+    },
+    {
+      "title": "DEVILS, THE",
+      "director": "Ken Russell",
+      "year": 1971,
+      "country": "UK",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "BANDE À PART",
+      "director": "Jean-Luc Godard",
+      "year": 1964,
+      "country": "France",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "39 STEPS, THE",
+      "director": "Alfred Hitchcock",
+      "year": 1935,
+      "country": "UK",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "BEFORE SUNSET",
+      "director": "Richard Linklater",
+      "year": 2004,
+      "country": "USA",
+      "length": 80,
+      "color": "Col"
+    },
+    {
+      "title": "STILL LIFE",
+      "director": "Jia Zhangke",
+      "year": 2006,
+      "country": "China-Hong Kong",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "WEDDING MARCH, THE",
+      "director": "Erich von Stroheim",
+      "year": 1928,
+      "country": "USA",
+      "length": 113,
+      "color": "BW"
+    },
+    {
+      "title": "SILENCE, THE",
+      "director": "Ingmar Bergman",
+      "year": 1963,
+      "country": "Sweden",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "PLÁCIDO",
+      "director": "Luis García Berlanga",
+      "year": 1961,
+      "country": "Spain",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "LOVE ME TONIGHT",
+      "director": "Rouben Mamoulian",
+      "year": 1932,
+      "country": "USA",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "DARK KNIGHT, THE",
+      "director": "Christopher Nolan",
+      "year": 2008,
+      "country": "USA-UK",
+      "length": 152,
+      "color": "Col"
+    },
+    {
+      "title": "YOUNG FRANKENSTEIN",
+      "director": "Mel Brooks",
+      "year": 1974,
+      "country": "USA",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "INVASION OF THE BODY SNATCHERS",
+      "director": "Don Siegel",
+      "year": 1956,
+      "country": "USA",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "AGE OF INNOCENCE, THE",
+      "director": "Martin Scorsese",
+      "year": 1993,
+      "country": "USA",
+      "length": 133,
+      "color": "Col"
+    },
+    {
+      "title": "LADY VANISHES, THE",
+      "director": "Alfred Hitchcock",
+      "year": 1938,
+      "country": "UK",
+      "length": 97,
+      "color": "BW"
+    },
+    {
+      "title": "SALESMAN",
+      "director": "Albert Maysles, David Maysles, Charlotte Zwerin",
+      "year": 1969,
+      "country": "USA",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "RED CIRCLE, THE",
+      "director": "Jean-Pierre Melville",
+      "year": 1970,
+      "country": "France-Italy",
+      "length": 150,
+      "color": "Col"
+    },
+    {
+      "title": "POSSESSION",
+      "director": "Andrzej Zulawski",
+      "year": 1981,
+      "country": "France-West Germany",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "ASCENT, THE",
+      "director": "Larisa Shepitko",
+      "year": 1976,
+      "country": "USSR",
+      "length": 111,
+      "color": "BW"
+    },
+    {
+      "title": "SON, THE",
+      "director": "Jean-Pierre Dardenne & Luc Dardenne",
+      "year": 2002,
+      "country": "Belgium-France",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "BAMBI",
+      "director": "David Hand",
+      "year": 1942,
+      "country": "USA",
+      "length": 69,
+      "color": "Col"
+    },
+    {
+      "title": "ARREBATO",
+      "director": "Iván Zulueta",
+      "year": 1979,
+      "country": "Spain",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "GOODBYE, DRAGON INN",
+      "director": "Tsai Ming-liang",
+      "year": 2003,
+      "country": "Taiwan",
+      "length": 82,
+      "color": "Col"
+    },
+    {
+      "title": "ROSETTA",
+      "director": "Jean-Pierre Dardenne & Luc Dardenne",
+      "year": 1999,
+      "country": "Belgium-France",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "DISTANT",
+      "director": "Nuri Bilge Ceylan",
+      "year": 2002,
+      "country": "Turkey-Netherlands",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "HOLY MOTORS",
+      "director": "Leos Carax",
+      "year": 2012,
+      "country": "France-Germany",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "AMOUR",
+      "director": "Michael Haneke",
+      "year": 2012,
+      "country": "Austria-France-Germany",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "BRING ME THE HEAD OF ALFREDO GARCIA",
+      "director": "Sam Peckinpah",
+      "year": 1974,
+      "country": "USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "SEVEN CHANCES",
+      "director": "Buster Keaton",
+      "year": 1925,
+      "country": "USA",
+      "length": 56,
+      "color": "BW"
+    },
+    {
+      "title": "WICKER MAN, THE",
+      "director": "Robin Hardy",
+      "year": 1973,
+      "country": "UK",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "CHANT D'AMOUR, UN",
+      "director": "Jean Genet",
+      "year": 1950,
+      "country": "France",
+      "length": 26,
+      "color": "BW"
+    },
+    {
+      "title": "LOVES OF A BLONDE",
+      "director": "Milos Forman",
+      "year": 1965,
+      "country": "Czechoslovakia",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "TESTAMENT OF DR. MABUSE, THE",
+      "director": "Fritz Lang",
+      "year": 1933,
+      "country": "Germany",
+      "length": 120,
+      "color": "BW"
+    },
+    {
+      "title": "DIABOLIQUES, LES",
+      "director": "Henri-Georges Clouzot",
+      "year": 1955,
+      "country": "France",
+      "length": 114,
+      "color": "BW"
+    },
+    {
+      "title": "SCARFACE",
+      "director": "Brian De Palma",
+      "year": 1983,
+      "country": "USA",
+      "length": 170,
+      "color": "Col"
+    },
+    {
+      "title": "MAD MAX: FURY ROAD",
+      "director": "George Miller",
+      "year": 2015,
+      "country": "Australia-USA",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "WHITE HEAT",
+      "director": "Raoul Walsh",
+      "year": 1949,
+      "country": "USA",
+      "length": 114,
+      "color": "BW"
+    },
+    {
+      "title": "SUR, EL",
+      "director": "Victor Erice",
+      "year": 1983,
+      "country": "Spain-France",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "DR. MABUSE, THE GAMBLER",
+      "director": "Fritz Lang",
+      "year": 1922,
+      "country": "Germany",
+      "length": 270,
+      "color": "BW"
+    },
+    {
+      "title": "NAZARÍN",
+      "director": "Luis Buñuel",
+      "year": 1958,
+      "country": "Mexico",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "OUR HOSPITALITY",
+      "director": "Buster Keaton & John G. Blystone",
+      "year": 1923,
+      "country": "USA",
+      "length": 74,
+      "color": "BW"
+    },
+    {
+      "title": "TWENTY YEARS LATER",
+      "director": "Eduardo Coutinho",
+      "year": 1984,
+      "country": "Brazil",
+      "length": 119,
+      "color": "Col-BW"
+    },
+    {
+      "title": "BLISSFULLY YOURS",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2002,
+      "country": "Thailand-France",
+      "length": 125,
+      "color": "Col"
+    },
+    {
+      "title": "MARRIAGE OF MARIA BRAUN, THE",
+      "director": "Rainer Werner Fassbinder",
+      "year": 1979,
+      "country": "West Germany",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "MOTHER AND SON",
+      "director": "Aleksandr Sokurov",
+      "year": 1997,
+      "country": "Russia-Germany",
+      "length": 73,
+      "color": "Col"
+    },
+    {
+      "title": "BEN-HUR",
+      "director": "William Wyler",
+      "year": 1959,
+      "country": "USA",
+      "length": 212,
+      "color": "Col"
+    },
+    {
+      "title": "ANGEL AT MY TABLE, AN",
+      "director": "Jane Campion",
+      "year": 1990,
+      "country": "New Zealand-Australia-UK-USA",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "STREETCAR NAMED DESIRE, A",
+      "director": "Elia Kazan",
+      "year": 1951,
+      "country": "USA",
+      "length": 122,
+      "color": "BW"
+    },
+    {
+      "title": "MEMENTO",
+      "director": "Christopher Nolan",
+      "year": 2000,
+      "country": "USA",
+      "length": 113,
+      "color": "Col"
+    },
+    {
+      "title": "EUROPA '51",
+      "director": "Roberto Rossellini",
+      "year": 1952,
+      "country": "Italy",
+      "length": 113,
+      "color": "BW"
+    },
+    {
+      "title": "HAINE, LA",
+      "director": "Mathieu Kassovitz",
+      "year": 1995,
+      "country": "France",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "ANTONIO DAS MORTES",
+      "director": "Glauber Rocha",
+      "year": 1969,
+      "country": "Brazil",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "GREAT EXPECTATIONS",
+      "director": "David Lean",
+      "year": 1946,
+      "country": "UK",
+      "length": 118,
+      "color": "BW"
+    },
+    {
+      "title": "FAT CITY",
+      "director": "John Huston",
+      "year": 1972,
+      "country": "USA",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "AFTER LIFE",
+      "director": "Hirokazu Koreeda",
+      "year": 1998,
+      "country": "Japan",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "SYNDROMES AND A CENTURY",
+      "director": "Apichatpong Weerasethakul",
+      "year": 2006,
+      "country": "Thailand-France-Austria-Netherlands",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "HEADLESS WOMAN, THE",
+      "director": "Lucrecia Martel",
+      "year": 2008,
+      "country": "Argentina-Spain-France-Italy",
+      "length": 87,
+      "color": "Col"
+    },
+    {
+      "title": "BIG DEAL ON MADONNA STREET",
+      "director": "Mario Monicelli",
+      "year": 1958,
+      "country": "Italy",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "NOSTALGIA FOR THE LIGHT",
+      "director": "Patricio Guzmán",
+      "year": 2010,
+      "country": "France-Germany-Chile-Spain-USA",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "ROUND-UP, THE",
+      "director": "Miklós Jancsó",
+      "year": 1966,
+      "country": "Hungary",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "GREAT ESCAPE, THE",
+      "director": "John Sturges",
+      "year": 1963,
+      "country": "USA",
+      "length": 168,
+      "color": "Col"
+    },
+    {
+      "title": "Y TU MAMÁ TAMBIÉN",
+      "director": "Alfonso Cuarón",
+      "year": 2001,
+      "country": "Mexico",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "MONTY PYTHON AND THE HOLY GRAIL",
+      "director": "Terry Gilliam & Terry Jones",
+      "year": 1975,
+      "country": "UK",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "SYNECDOCHE, NEW YORK",
+      "director": "Charlie Kaufman",
+      "year": 2008,
+      "country": "USA",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "PLACE IN THE SUN, A",
+      "director": "George Stevens",
+      "year": 1951,
+      "country": "USA",
+      "length": 122,
+      "color": "BW"
+    },
+    {
+      "title": "JFK",
+      "director": "Oliver Stone",
+      "year": 1991,
+      "country": "USA",
+      "length": 188,
+      "color": "Col-BW"
+    },
+    {
+      "title": "XALA",
+      "director": "Ousmane Sembene",
+      "year": 1975,
+      "country": "Senegal",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "GUMMO",
+      "director": "Harmony Korine",
+      "year": 1997,
+      "country": "USA",
+      "length": 88,
+      "color": "Col"
+    },
+    {
+      "title": "YEELEN",
+      "director": "Souleymane Cissé",
+      "year": 1987,
+      "country": "Mali-Burkina Faso-France-West Germany-Japan",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "TITICUT FOLLIES",
+      "director": "Frederick Wiseman",
+      "year": 1967,
+      "country": "USA",
+      "length": 84,
+      "color": "BW"
+    },
+    {
+      "title": "YOUNG MR. LINCOLN",
+      "director": "John Ford",
+      "year": 1939,
+      "country": "USA",
+      "length": 100,
+      "color": "BW"
+    },
+    {
+      "title": "BLUE ANGEL, THE",
+      "director": "Josef von Sternberg",
+      "year": 1930,
+      "country": "Germany",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "PURPLE ROSE OF CAIRO, THE",
+      "director": "Woody Allen",
+      "year": 1985,
+      "country": "USA",
+      "length": 82,
+      "color": "Col-BW"
+    },
+    {
+      "title": "PASSION",
+      "director": "Jean-Luc Godard",
+      "year": 1982,
+      "country": "France-Switzerland",
+      "length": 87,
+      "color": "Col"
+    },
+    {
+      "title": "GUN CRAZY",
+      "director": "Joseph H. Lewis",
+      "year": 1950,
+      "country": "USA",
+      "length": 86,
+      "color": "BW"
+    },
+    {
+      "title": "THEY LIVE BY NIGHT",
+      "director": "Nicholas Ray",
+      "year": 1948,
+      "country": "USA",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "NOUVELLE VAGUE",
+      "director": "Jean-Luc Godard",
+      "year": 1990,
+      "country": "France-Switzerland",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "PARTY, THE",
+      "director": "Blake Edwards",
+      "year": 1968,
+      "country": "USA",
+      "length": 99,
+      "color": "Col"
+    },
+    {
+      "title": "DANCER IN THE DARK",
+      "director": "Lars von Trier",
+      "year": 2000,
+      "country": "Denmark-France-Sweden-Italy-Germany-Norway-Netherlands-Iceland-Finland-UK-USA",
+      "length": 140,
+      "color": "Col"
+    },
+    {
+      "title": "REBECCA",
+      "director": "Alfred Hitchcock",
+      "year": 1940,
+      "country": "USA",
+      "length": 130,
+      "color": "BW"
+    },
+    {
+      "title": "GHOSTBUSTERS",
+      "director": "Ivan Reitman",
+      "year": 1984,
+      "country": "USA",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "TITANIC",
+      "director": "James Cameron",
+      "year": 1997,
+      "country": "USA",
+      "length": 194,
+      "color": "Col"
+    },
+    {
+      "title": "ZELIG",
+      "director": "Woody Allen",
+      "year": 1983,
+      "country": "USA",
+      "length": 79,
+      "color": "Col-BW"
+    },
+    {
+      "title": "DAZED AND CONFUSED",
+      "director": "Richard Linklater",
+      "year": 1993,
+      "country": "USA",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "EDWARD SCISSORHANDS",
+      "director": "Tim Burton",
+      "year": 1990,
+      "country": "USA",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "HISTORY OF VIOLENCE, A",
+      "director": "David Cronenberg",
+      "year": 2005,
+      "country": "USA-Germany",
+      "length": 96,
+      "color": "Col"
+    },
+    {
+      "title": "LET THE RIGHT ONE IN",
+      "director": "Tomas Alfredson",
+      "year": 2008,
+      "country": "Sweden-Norway",
+      "length": 114,
+      "color": "Col"
+    },
+    {
+      "title": "WALKABOUT",
+      "director": "Nicolas Roeg",
+      "year": 1971,
+      "country": "Australia",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "VIRGIN SPRING, THE",
+      "director": "Ingmar Bergman",
+      "year": 1959,
+      "country": "Sweden",
+      "length": 88,
+      "color": "BW"
+    },
+    {
+      "title": "AIRPLANE!",
+      "director": "Jim Abrahams, David Zucker, Jerry Zucker",
+      "year": 1980,
+      "country": "USA",
+      "length": 86,
+      "color": "Col"
+    },
+    {
+      "title": "HARAKIRI",
+      "director": "Masaki Kobayashi",
+      "year": 1962,
+      "country": "Japan",
+      "length": 133,
+      "color": "BW"
+    },
+    {
+      "title": "MY LIFE AS A DOG",
+      "director": "Lasse Hallström",
+      "year": 1985,
+      "country": "Sweden",
+      "length": 101,
+      "color": "Col"
+    },
+    {
+      "title": "ROBOCOP",
+      "director": "Paul Verhoeven",
+      "year": 1987,
+      "country": "USA",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "AFRICAN QUEEN, THE",
+      "director": "John Huston",
+      "year": 1951,
+      "country": "USA",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "MR. SMITH GOES TO WASHINGTON",
+      "director": "Frank Capra",
+      "year": 1939,
+      "country": "USA",
+      "length": 129,
+      "color": "BW"
+    },
+    {
+      "title": "AUDITION",
+      "director": "Takashi Miike",
+      "year": 1999,
+      "country": "Japan-South Korea",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "MY FRIEND IVAN LAPSHIN",
+      "director": "Aleksey German",
+      "year": 1985,
+      "country": "USSR",
+      "length": 100,
+      "color": "Col-BW"
+    },
+    {
+      "title": "CRASH",
+      "director": "David Cronenberg",
+      "year": 1996,
+      "country": "Canada",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "GOLDEN COACH, THE",
+      "director": "Jean Renoir",
+      "year": 1952,
+      "country": "Italy-France",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "SAVING PRIVATE RYAN",
+      "director": "Steven Spielberg",
+      "year": 1998,
+      "country": "USA",
+      "length": 169,
+      "color": "Col"
+    },
+    {
+      "title": "W.R.: MYSTERIES OF THE ORGANISM",
+      "director": "Dusan Makavejev",
+      "year": 1971,
+      "country": "Yugoslavia",
+      "length": 84,
+      "color": "Col"
+    },
+    {
+      "title": "DUMBO",
+      "director": "Ben Sharpsteen",
+      "year": 1941,
+      "country": "USA",
+      "length": 64,
+      "color": "Col"
+    },
+    {
+      "title": "STRIKE",
+      "director": "Sergei Eisenstein",
+      "year": 1925,
+      "country": "USSR",
+      "length": 73,
+      "color": "BW"
+    },
+    {
+      "title": "FOOLISH WIVES",
+      "director": "Erich von Stroheim",
+      "year": 1922,
+      "country": "USA",
+      "length": 117,
+      "color": "BW"
+    },
+    {
+      "title": "L.A. CONFIDENTIAL",
+      "director": "Curtis Hanson",
+      "year": 1997,
+      "country": "USA",
+      "length": 137,
+      "color": "Col"
+    },
+    {
+      "title": "PIANO TEACHER, THE",
+      "director": "Michael Haneke",
+      "year": 2001,
+      "country": "Austria-France-Germany",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "CIRCUS, THE",
+      "director": "Charles Chaplin",
+      "year": 1928,
+      "country": "USA",
+      "length": 72,
+      "color": "BW"
+    },
+    {
+      "title": "CASQUE D'OR",
+      "director": "Jacques Becker",
+      "year": 1952,
+      "country": "France",
+      "length": 96,
+      "color": "BW"
+    },
+    {
+      "title": "SPARTACUS",
+      "director": "Stanley Kubrick",
+      "year": 1960,
+      "country": "USA",
+      "length": 184,
+      "color": "Col"
+    },
+    {
+      "title": "FUNNY GAMES",
+      "director": "Michael Haneke",
+      "year": 1997,
+      "country": "Austria",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "WHEN HARRY MET SALLY...",
+      "director": "Rob Reiner",
+      "year": 1989,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "IRRÉVERSIBLE",
+      "director": "Gaspar Noé",
+      "year": 2002,
+      "country": "France",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "ONCE UPON A TIME IN ANATOLIA",
+      "director": "Nuri Bilge Ceylan",
+      "year": 2011,
+      "country": "Turkey-Bosnia and Herzergovina",
+      "length": 150,
+      "color": "Col"
+    },
+    {
+      "title": "VIVE L'AMOUR",
+      "director": "Tsai Ming-liang",
+      "year": 1994,
+      "country": "Taiwan",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "EDVARD MUNCH",
+      "director": "Peter Watkins",
+      "year": 1974,
+      "country": "Sweden-Norway",
+      "length": 210,
+      "color": "Col"
+    },
+    {
+      "title": "RIFIFI",
+      "director": "Jules Dassin",
+      "year": 1955,
+      "country": "France",
+      "length": 115,
+      "color": "BW"
+    },
+    {
+      "title": "REQUIEM FOR A DREAM",
+      "director": "Darren Aronofsky",
+      "year": 2000,
+      "country": "USA",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "BREAKFAST AT TIFFANY'S",
+      "director": "Blake Edwards",
+      "year": 1961,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "HOST, THE",
+      "director": "Bong Joon-ho",
+      "year": 2006,
+      "country": "South Korea-Japan",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "MAN WHO WOULD BE KING, THE",
+      "director": "John Huston",
+      "year": 1975,
+      "country": "USA",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "FORT APACHE",
+      "director": "John Ford",
+      "year": 1948,
+      "country": "USA",
+      "length": 127,
+      "color": "BW"
+    },
+    {
+      "title": "BAD AND THE BEAUTIFUL, THE",
+      "director": "Vincente Minnelli",
+      "year": 1952,
+      "country": "USA",
+      "length": 118,
+      "color": "BW"
+    },
+    {
+      "title": "BY THE BLUEST OF SEAS",
+      "director": "Boris Barnet",
+      "year": 1936,
+      "country": "USSR",
+      "length": 71,
+      "color": "BW"
+    },
+    {
+      "title": "AVATAR",
+      "director": "James Cameron",
+      "year": 2009,
+      "country": "USA-UK",
+      "length": 161,
+      "color": "Col"
+    },
+    {
+      "title": "MILLER'S CROSSING",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 1990,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "TIN DRUM, THE",
+      "director": "Volker Schlöndorff",
+      "year": 1979,
+      "country": "West Germany-France-Poland-Yugoslavia",
+      "length": 142,
+      "color": "Col"
+    },
+    {
+      "title": "RED SORGHUM",
+      "director": "Zhang Yimou",
+      "year": 1987,
+      "country": "China",
+      "length": 91,
+      "color": "Col"
+    },
+    {
+      "title": "EMPEROR'S NAKED ARMY MARCHES ON, THE",
+      "director": "Kazuo Hara",
+      "year": 1987,
+      "country": "Japan",
+      "length": 122,
+      "color": "Col"
+    },
+    {
+      "title": "KILLER, THE",
+      "director": "John Woo",
+      "year": 1989,
+      "country": "Hong Kong",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "SHORT FILM ABOUT KILLING, A",
+      "director": "Krzysztof Kieslowski",
+      "year": 1987,
+      "country": "Poland",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "CLAIRE'S KNEE",
+      "director": "Eric Rohmer",
+      "year": 1970,
+      "country": "France",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "LANCELOT DU LAC",
+      "director": "Robert Bresson",
+      "year": 1974,
+      "country": "France-Italy",
+      "length": 84,
+      "color": "Col"
+    },
+    {
+      "title": "WOMAN NEXT DOOR, THE",
+      "director": "François Truffaut",
+      "year": 1981,
+      "country": "France",
+      "length": 106,
+      "color": "Col"
+    },
+    {
+      "title": "WILD CHILD, THE",
+      "director": "François Truffaut",
+      "year": 1970,
+      "country": "France",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "VAN GOGH",
+      "director": "Maurice Pialat",
+      "year": 1991,
+      "country": "France",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "LORD OF THE RINGS: THE FELLOWSHIP OF THE RING, THE",
+      "director": "Peter Jackson",
+      "year": 2001,
+      "country": "New Zealand-USA",
+      "length": 178,
+      "color": "Col"
+    },
+    {
+      "title": "NEAR DARK",
+      "director": "Kathryn Bigelow",
+      "year": 1987,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "TIGER OF ESCHNAPUR, THE",
+      "director": "Fritz Lang",
+      "year": 1958,
+      "country": "West Germany-France-Italy",
+      "length": 101,
+      "color": "Col"
+    },
+    {
+      "title": "ALL QUIET ON THE WESTERN FRONT",
+      "director": "Lewis Milestone",
+      "year": 1930,
+      "country": "USA",
+      "length": 133,
+      "color": "BW"
+    },
+    {
+      "title": "ACE IN THE HOLE",
+      "director": "Billy Wilder",
+      "year": 1951,
+      "country": "USA",
+      "length": 112,
+      "color": "BW"
+    },
+    {
+      "title": "SEASONS, THE",
+      "director": "Artavazd Peleshian",
+      "year": 1975,
+      "country": "USSR",
+      "length": 29,
+      "color": "BW"
+    },
+    {
+      "title": "THIEF OF BAGDAD, THE",
+      "director": "Michael Powell, Ludwig Berger, Tim Whelan",
+      "year": 1940,
+      "country": "UK",
+      "length": 106,
+      "color": "Col"
+    },
+    {
+      "title": "D'EST",
+      "director": "Chantal Akerman",
+      "year": 1993,
+      "country": "Belgium-France-Portugal",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "AKIRA",
+      "director": "Katsuhiro Otomo",
+      "year": 1988,
+      "country": "Japan",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "DAMES DU BOIS DE BOULOGNE, LES",
+      "director": "Robert Bresson",
+      "year": 1945,
+      "country": "France",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "AMERICAN IN PARIS, AN",
+      "director": "Vincente Minnelli",
+      "year": 1951,
+      "country": "USA",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "PICKUP ON SOUTH STREET",
+      "director": "Samuel Fuller",
+      "year": 1953,
+      "country": "USA",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "BLOW OUT",
+      "director": "Brian De Palma",
+      "year": 1981,
+      "country": "USA",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "SATURDAY NIGHT AND SUNDAY MORNING",
+      "director": "Karel Reisz",
+      "year": 1960,
+      "country": "UK",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "NEW WORLD, THE",
+      "director": "Terrence Malick",
+      "year": 2005,
+      "country": "USA",
+      "length": 135,
+      "color": "Col"
+    },
+    {
+      "title": "GRIDO, IL",
+      "director": "Michelangelo Antonioni",
+      "year": 1957,
+      "country": "Italy",
+      "length": 111,
+      "color": "BW"
+    },
+    {
+      "title": "WE ALL LOVED EACH OTHER SO MUCH",
+      "director": "Ettore Scola",
+      "year": 1974,
+      "country": "Italy",
+      "length": 124,
+      "color": "Col"
+    },
+    {
+      "title": "SUPERMAN",
+      "director": "Richard Donner",
+      "year": 1978,
+      "country": "USA",
+      "length": 143,
+      "color": "Col"
+    },
+    {
+      "title": "FELLINI'S ROMA",
+      "director": "Federico Fellini",
+      "year": 1972,
+      "country": "Italy",
+      "length": 128,
+      "color": "Col"
+    },
+    {
+      "title": "DIRTY HARRY",
+      "director": "Don Siegel",
+      "year": 1971,
+      "country": "USA",
+      "length": 102,
+      "color": "Col"
+    },
+    {
+      "title": "LADIES MAN, THE",
+      "director": "Jerry Lewis",
+      "year": 1961,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "Z",
+      "director": "Constantin Costa-Gavras",
+      "year": 1969,
+      "country": "France",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "MOULIN ROUGE!",
+      "director": "Baz Luhrmann",
+      "year": 2001,
+      "country": "Australia-USA",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "DODES'KA-DEN",
+      "director": "Akira Kurosawa",
+      "year": 1970,
+      "country": "Japan",
+      "length": 140,
+      "color": "Col"
+    },
+    {
+      "title": "NIGHT OF THE DEMON",
+      "director": "Jacques Tourneur",
+      "year": 1957,
+      "country": "UK",
+      "length": 82,
+      "color": "BW"
+    },
+    {
+      "title": "LONG DAY CLOSES, THE",
+      "director": "Terence Davies",
+      "year": 1992,
+      "country": "UK",
+      "length": 83,
+      "color": "Col"
+    },
+    {
+      "title": "CHRONICLE OF ANNA MAGDALENA BACH, THE",
+      "director": "Jean-Marie Straub",
+      "year": 1968,
+      "country": "West Germany-Italy",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "LOLITA",
+      "director": "Stanley Kubrick",
+      "year": 1962,
+      "country": "UK",
+      "length": 152,
+      "color": "BW"
+    },
+    {
+      "title": "FERRIS BUELLER'S DAY OFF",
+      "director": "John Hughes",
+      "year": 1986,
+      "country": "USA",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "RED BALLOON, THE",
+      "director": "Albert Lamorisse",
+      "year": 1956,
+      "country": "France",
+      "length": 34,
+      "color": "Col"
+    },
+    {
+      "title": "THELMA & LOUISE",
+      "director": "Ridley Scott",
+      "year": 1991,
+      "country": "USA",
+      "length": 128,
+      "color": "Col"
+    },
+    {
+      "title": "CRUMB",
+      "director": "Terry Zwigoff",
+      "year": 1994,
+      "country": "USA",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "FIREMEN'S BALL, THE",
+      "director": "Milos Forman",
+      "year": 1967,
+      "country": "Czechoslovakia",
+      "length": 73,
+      "color": "Col"
+    },
+    {
+      "title": "LAST DETAIL, THE",
+      "director": "Hal Ashby",
+      "year": 1973,
+      "country": "USA",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "ADVENTURES OF ROBIN HOOD, THE",
+      "director": "Michael Curtiz & William Keighley",
+      "year": 1938,
+      "country": "USA",
+      "length": 102,
+      "color": "Col"
+    },
+    {
+      "title": "STREET ANGEL",
+      "director": "Yuan Muzhi",
+      "year": 1937,
+      "country": "China",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "SMILES OF A SUMMER NIGHT",
+      "director": "Ingmar Bergman",
+      "year": 1955,
+      "country": "Sweden",
+      "length": 108,
+      "color": "BW"
+    },
+    {
+      "title": "IRACEMA - UMA TRANSA AMAZÔNICA",
+      "director": "Jorge Bodanzky & Orlando Senna",
+      "year": 1975,
+      "country": "Brazil - West Germany - France",
+      "length": 90,
+      "color": "Col"
+    }, {
+      "title": "SIDEWAYS",
+      "director": "Alexander Payne",
+      "year": 2004,
+      "country": "USA",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "PORTRAIT OF JASON",
+      "director": "Shirley Clarke",
+      "year": 1967,
+      "country": "USA",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "SAUVE QUI PEUT (LA VIE)",
+      "director": "Jean - Luc Godard",
+      "year": 1980,
+      "country": "France - Switzerland",
+      "length": 87,
+      "color": "Col"
+    }, {
+      "title": "WILD AT HEART",
+      "director": "David Lynch",
+      "year": 1990,
+      "country": "USA",
+      "length": 127,
+      "color": "Col"
+    },
+    {
+      "title": "COOL HAND LUKE",
+      "director": "Stuart Rosenberg",
+      "year": 1967,
+      "country": "USA",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "HUNGER",
+      "director": "Steve McQueen",
+      "year": 2008,
+      "country": "UK-Ireland",
+      "length": 96,
+      "color": "Col"
+    },
+    {
+      "title": "NAVIGATOR, THE",
+      "director": "Buster Keaton & Donald Crisp",
+      "year": 1924,
+      "country": "USA",
+      "length": 59,
+      "color": "BW"
+    },
+    {
+      "title": "RIVER, THE",
+      "director": "Tsai Ming-liang",
+      "year": 1997,
+      "country": "Taiwan",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "STARSHIP TROOPERS",
+      "director": "Paul Verhoeven",
+      "year": 1997,
+      "country": "USA",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "FLAMING CREATURES",
+      "director": "Jack Smith",
+      "year": 1963,
+      "country": "USA",
+      "length": 43,
+      "color": "BW"
+    },
+    {
+      "title": "SANG DES BÊTES, LE",
+      "director": "Georges Franju",
+      "year": 1949,
+      "country": "France",
+      "length": 20,
+      "color": "BW"
+    },
+    {
+      "title": "CODE UNKNOWN",
+      "director": "Michael Haneke",
+      "year": 2000,
+      "country": "France-Germany-Romania",
+      "length": 118,
+      "color": "Col"
+    },
+    {
+      "title": "BLUES BROTHERS, THE",
+      "director": "John Landis",
+      "year": 1980,
+      "country": "USA",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "DEEP END",
+      "director": "Jerzy Skolimowski",
+      "year": 1970,
+      "country": "UK-West Germany",
+      "length": 88,
+      "color": "Col"
+    },
+    {
+      "title": "HAWKS AND THE SPARROWS, THE",
+      "director": "Pier Paolo Pasolini",
+      "year": 1966,
+      "country": "Italy",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "ABRAHAM'S VALLEY",
+      "director": "Manoel de Oliveira",
+      "year": 1993,
+      "country": "Portugal-France-Switzerland",
+      "length": 187,
+      "color": "Col"
+    },
+    {
+      "title": "GODDESS, THE",
+      "director": "Wu Yonggang",
+      "year": 1934,
+      "country": "China",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "KAAGAZ KE PHOOL",
+      "director": "Guru Dutt",
+      "year": 1959,
+      "country": "India",
+      "length": 148,
+      "color": "BW"
+    },
+    {
+      "title": "AMERICAN BEAUTY",
+      "director": "Sam Mendes",
+      "year": 1999,
+      "country": "USA",
+      "length": 121,
+      "color": "Col"
+    },
+    {
+      "title": "OLYMPIA",
+      "director": "Leni Riefenstahl",
+      "year": 1938,
+      "country": "Germany",
+      "length": 220,
+      "color": "BW"
+    },
+    {
+      "title": "OSSESSIONE",
+      "director": "Luchino Visconti",
+      "year": 1943,
+      "country": "Italy",
+      "length": 140,
+      "color": "BW"
+    },
+    {
+      "title": "BLOOD SIMPLE",
+      "director": "Joel Coen & Ethan Coen",
+      "year": 1984,
+      "country": "USA",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "VENGEANCE IS MINE",
+      "director": "Shohei Imamura",
+      "year": 1979,
+      "country": "Japan",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "TRIAL, THE",
+      "director": "Orson Welles",
+      "year": 1962,
+      "country": "France-West Germany-Italy",
+      "length": 118,
+      "color": "BW"
+    },
+    {
+      "title": "PRINCESS BRIDE, THE",
+      "director": "Rob Reiner",
+      "year": 1987,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "SPIONE",
+      "director": "Fritz Lang",
+      "year": 1928,
+      "country": "Germany",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "TWO ENGLISH GIRLS",
+      "director": "François Truffaut",
+      "year": 1971,
+      "country": "France",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "MILLION DOLLAR BABY",
+      "director": "Clint Eastwood",
+      "year": 2004,
+      "country": "USA",
+      "length": 137,
+      "color": "Col"
+    },
+    {
+      "title": "MAÎTRES FOUS, LES",
+      "director": "Jean Rouch",
+      "year": 1955,
+      "country": "France",
+      "length": 36,
+      "color": "Col"
+    },
+    {
+      "title": "BANDIDO DA LUZ VERMELHA, O",
+      "director": "Rogério Sganzerla",
+      "year": 1968,
+      "country": "Brazil",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "BLUE",
+      "director": "Derek Jarman",
+      "year": 1993,
+      "country": "UK",
+      "length": 76,
+      "color": "Col"
+    },
+    {
+      "title": "JURASSIC PARK",
+      "director": "Steven Spielberg",
+      "year": 1993,
+      "country": "USA",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "MEMORIES OF MURDER",
+      "director": "Bong Joon-ho",
+      "year": 2003,
+      "country": "South Korea",
+      "length": 132,
+      "color": "Col"
+    },
+    {
+      "title": "MOONFLEET",
+      "director": "Fritz Lang",
+      "year": 1955,
+      "country": "USA",
+      "length": 89,
+      "color": "Col"
+    },
+    {
+      "title": "BONHEUR, LE",
+      "director": "Agnès Varda",
+      "year": 1965,
+      "country": "France",
+      "length": 79,
+      "color": "Col"
+    },
+    {
+      "title": "SWEET HEREAFTER, THE",
+      "director": "Atom Egoyan",
+      "year": 1997,
+      "country": "Canada",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "HOLY MOUNTAIN, THE",
+      "director": "Alejandro Jodorowsky",
+      "year": 1973,
+      "country": "Mexico-USA",
+      "length": 114,
+      "color": "Col"
+    },
+    {
+      "title": "NEWS FROM HOME",
+      "director": "Chantal Akerman",
+      "year": 1976,
+      "country": "France-Belgium-West Germany",
+      "length": 85,
+      "color": "Col"
+    },
+    {
+      "title": "AMORES PERROS",
+      "director": "Alejandro González Iñárritu",
+      "year": 2000,
+      "country": "Mexico",
+      "length": 153,
+      "color": "Col"
+    },
+    {
+      "title": "MARY POPPINS",
+      "director": "Robert Stevenson",
+      "year": 1964,
+      "country": "USA",
+      "length": 139,
+      "color": "Col"
+    },
+    {
+      "title": "MIRACLE OF MORGAN'S CREEK, THE",
+      "director": "Preston Sturges",
+      "year": 1944,
+      "country": "USA",
+      "length": 99,
+      "color": "BW"
+    },
+    {
+      "title": "LADYKILLERS, THE",
+      "director": "Alexander Mackendrick",
+      "year": 1955,
+      "country": "UK",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "GRAVE OF THE FIREFLIES",
+      "director": "Isao Takahata",
+      "year": 1988,
+      "country": "Japan",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "COMMUNE",
+      "director": "PARIS, 1871), LA",
+      "director": "Peter Watkins",
+      "year": 2000,
+      "country": "France",
+      "length": 345,
+      "color": "BW"
+    },
+    {
+      "title": "POSTO, IL",
+      "director": "Ermanno Olmi",
+      "year": 1961,
+      "country": "Italy",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "FASTER, PUSSYCAT! KILL! KILL!",
+      "director": "Russ Meyer",
+      "year": 1965,
+      "country": "USA",
+      "length": 83,
+      "color": "BW"
+    },
+    {
+      "title": "ROMAN HOLIDAY",
+      "director": "William Wyler",
+      "year": 1953,
+      "country": "USA",
+      "length": 119,
+      "color": "BW"
+    },
+    {
+      "title": "DIARIES, NOTES AND SKETCHES",
+      "director": "Jonas Mekas",
+      "year": 1969,
+      "country": "USA",
+      "length": 177,
+      "color": "Col"
+    },
+    {
+      "title": "PORT OF SHADOWS",
+      "director": "Marcel Carné",
+      "year": 1938,
+      "country": "France",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "IDIOTS, THE",
+      "director": "Lars von Trier",
+      "year": 1998,
+      "country": "Denmark-Spain-Sweden-France-Netherlands-Italy",
+      "length": 117,
+      "color": "Col"
+    },
+    {
+      "title": "BURNT BY THE SUN",
+      "director": "Nikita Mikhalkov",
+      "year": 1994,
+      "country": "Russia-France",
+      "length": 152,
+      "color": "Col"
+    },
+    {
+      "title": "ASSAULT ON PRECINCT 13",
+      "director": "John Carpenter",
+      "year": 1976,
+      "country": "USA",
+      "length": 90,
+      "color": "Col"
+    },
+    {
+      "title": "RIGHT STUFF, THE",
+      "director": "Philip Kaufman",
+      "year": 1983,
+      "country": "USA",
+      "length": 193,
+      "color": "Col"
+    },
+    {
+      "title": "LUSTY MEN, THE",
+      "director": "Nicholas Ray",
+      "year": 1952,
+      "country": "USA",
+      "length": 113,
+      "color": "BW"
+    },
+    {
+      "title": "HITLER: A FILM FROM GERMANY",
+      "director": "Hans-Jürgen Syberberg",
+      "year": 1977,
+      "country": "West Germany-France-UK",
+      "length": 442,
+      "color": "Col"
+    },
+    {
+      "title": "WHO'S AFRAID OF VIRGINIA WOOLF?",
+      "director": "Mike Nichols",
+      "year": 1966,
+      "country": "USA",
+      "length": 129,
+      "color": "BW"
+    },
+    {
+      "title": "FORBIDDEN GAMES",
+      "director": "René Clément",
+      "year": 1952,
+      "country": "France",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "STREET OF SHAME",
+      "director": "Kenji Mizoguchi",
+      "year": 1956,
+      "country": "Japan",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "VERONIKA VOSS",
+      "director": "Rainer Werner Fassbinder",
+      "year": 1982,
+      "country": "West Germany",
+      "length": 105,
+      "color": "BW"
+    },
+    {
+      "title": "GHOST AND MRS. MUIR, THE",
+      "director": "Joseph L. Mankiewicz",
+      "year": 1947,
+      "country": "USA",
+      "length": 104,
+      "color": "BW"
+    },
+    {
+      "title": "SEVEN WOMEN",
+      "director": "John Ford",
+      "year": 1966,
+      "country": "USA",
+      "length": 87,
+      "color": "Col"
+    },
+    {
+      "title": "PRODUCERS, THE",
+      "director": "Mel Brooks",
+      "year": 1968,
+      "country": "USA",
+      "length": 88,
+      "color": "Col"
+    },
+    {
+      "title": "TAIPEI STORY",
+      "director": "Edward Yang",
+      "year": 1985,
+      "country": "Taiwan",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "NEW YORK, NEW YORK",
+      "director": "Martin Scorsese",
+      "year": 1977,
+      "country": "USA",
+      "length": 164,
+      "color": "Col"
+    },
+    {
+      "title": "MOROCCO",
+      "director": "Josef von Sternberg",
+      "year": 1930,
+      "country": "USA",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "IT'S A GIFT",
+      "director": "Norman Z. McLeod",
+      "year": 1934,
+      "country": "USA",
+      "length": 73,
+      "color": "BW"
+    },
+    {
+      "title": "BLACK GIRL",
+      "director": "Ousmane Sembene",
+      "year": 1966,
+      "country": "Senegal-France",
+      "length": 65,
+      "color": "BW"
+    },
+    {
+      "title": "LESSONS OF DARKNESS",
+      "director": "Werner Herzog",
+      "year": 1992,
+      "country": "France-UK-Germany",
+      "length": 50,
+      "color": "Col"
+    },
+    {
+      "title": "DIARY",
+      "director": "David Perlov",
+      "year": 1983,
+      "country": "Israel",
+      "length": 330,
+      "color": "Col-BW"
+    },
+    {
+      "title": "CENTRAL STATION",
+      "director": "Walter Salles",
+      "year": 1998,
+      "country": "Brazil-France-Spain-Japan",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "INTRUDER, THE",
+      "director": "Claire Denis",
+      "year": 2004,
+      "country": "France-South Korea",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "AGE OF THE EARTH, THE",
+      "director": "Glauber Rocha",
+      "year": 1980,
+      "country": "Brazil",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "DUST IN THE WIND",
+      "director": "Hou Hsiao-hsien",
+      "year": 1987,
+      "country": "Taiwan",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "DAY THE EARTH STOOD STILL, THE",
+      "director": "Robert Wise",
+      "year": 1951,
+      "country": "USA",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "NUMÉRO DEUX",
+      "director": "Jean-Luc Godard",
+      "year": 1975,
+      "country": "France",
+      "length": 88,
+      "color": "Col"
+    },
+    {
+      "title": "BREAKFAST CLUB, THE",
+      "director": "John Hughes",
+      "year": 1985,
+      "country": "USA",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
+      "director": "Pedro Almodóvar",
+      "year": 1988,
+      "country": "Spain",
+      "length": 88,
+      "color": "Col"
+    },
+    {
+      "title": "BLAZING SADDLES",
+      "director": "Mel Brooks",
+      "year": 1974,
+      "country": "USA",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "KWAIDAN",
+      "director": "Masaki Kobayashi",
+      "year": 1964,
+      "country": "Japan",
+      "length": 164,
+      "color": "Col"
+    },
+    {
+      "title": "POINT BREAK",
+      "director": "Kathryn Bigelow",
+      "year": 1991,
+      "country": "USA-Japan",
+      "length": 122,
+      "color": "Col"
+    },
+    {
+      "title": "SAWDUST AND TINSEL",
+      "director": "Ingmar Bergman",
+      "year": 1953,
+      "country": "Sweden",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "SHE WORE A YELLOW RIBBON",
+      "director": "John Ford",
+      "year": 1949,
+      "country": "USA",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "NAKED ISLAND, THE",
+      "director": "Kaneto Shindo",
+      "year": 1960,
+      "country": "Japan",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "MATCH FACTORY GIRL, THE",
+      "director": "Aki Kaurismäki",
+      "year": 1990,
+      "country": "Finland-Sweden",
+      "length": 68,
+      "color": "Col"
+    },
+    {
+      "title": "MOTHER INDIA",
+      "director": "Mehboob Khan",
+      "year": 1957,
+      "country": "India",
+      "length": 172,
+      "color": "Col"
+    },
+    {
+      "title": "MY LITTLE LOVES",
+      "director": "Jean Eustache",
+      "year": 1974,
+      "country": "France",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "FIRES WERE STARTED",
+      "director": "Humphrey Jennings",
+      "year": 1943,
+      "country": "UK",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "WOMAN OF PARIS, A",
+      "director": "Charles Chaplin",
+      "year": 1923,
+      "country": "USA",
+      "length": 78,
+      "color": "BW"
+    },
+    {
+      "title": "MILLION, LE",
+      "director": "René Clair",
+      "year": 1931,
+      "country": "France",
+      "length": 85,
+      "color": "BW"
+    },
+    {
+      "title": "LAST TEMPTATION OF CHRIST, THE",
+      "director": "Martin Scorsese",
+      "year": 1988,
+      "country": "USA-Canada",
+      "length": 164,
+      "color": "Col"
+    },
+    {
+      "title": "INGLOURIOUS BASTERDS",
+      "director": "Quentin Tarantino",
+      "year": 2009,
+      "country": "USA-Germany",
+      "length": 153,
+      "color": "Col"
+    },
+    {
+      "title": "PRINCESS MONONOKE",
+      "director": "Hayao Miyazaki",
+      "year": 1997,
+      "country": "Japan",
+      "length": 134,
+      "color": "Col"
+    },
+    {
+      "title": "AS I WAS MOVING AHEAD OCCASIONALLY I SAW BRIEF GLIMPSES OF BEAUTY",
+      "director": "Jonas Mekas",
+      "year": 2000,
+      "country": "USA",
+      "length": 288,
+      "color": "Col"
+    },
+    {
+      "title": "SICILIA!",
+      "director": "Jean-Marie Straub & Danièle Huillet",
+      "year": 1999,
+      "country": "Italy-France-Germany",
+      "length": 66,
+      "color": "BW"
+    },
+    {
+      "title": "BRANDED TO KILL",
+      "director": "Seijun Suzuki",
+      "year": 1967,
+      "country": "Japan",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "FATA MORGANA",
+      "director": "Werner Herzog",
+      "year": 1971,
+      "country": "West Germany",
+      "length": 78,
+      "color": "Col"
+    },
+    {
+      "title": "LAST EMPEROR, THE",
+      "director": "Bernardo Bertolucci",
+      "year": 1987,
+      "country": "China-Italy-UK-France",
+      "length": 160,
+      "color": "Col"
+    },
+    {
+      "title": "2046",
+      "director": "Wong Kar-wai",
+      "year": 2004,
+      "country": "Hong Kong-China-France-Italy-Germany",
+      "length": 129,
+      "color": "Col-BW"
+    },
+    {
+      "title": "AMERICAN GRAFFITI",
+      "director": "George Lucas",
+      "year": 1973,
+      "country": "USA",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "ANATOMY OF A MURDER",
+      "director": "Otto Preminger",
+      "year": 1959,
+      "country": "USA",
+      "length": 160,
+      "color": "BW"
+    },
+    {
+      "title": "SEVENTH HEAVEN",
+      "director": "Frank Borzage",
+      "year": 1927,
+      "country": "USA",
+      "length": 119,
+      "color": "BW"
+    },
+    {
+      "title": "USUAL SUSPECTS, THE",
+      "director": "Bryan Singer",
+      "year": 1995,
+      "country": "USA",
+      "length": 105,
+      "color": "Col"
+    },
+    {
+      "title": "PINK FLAMINGOS",
+      "director": "John Waters",
+      "year": 1972,
+      "country": "USA",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "MAN OF THE WEST",
+      "director": "Anthony Mann",
+      "year": 1958,
+      "country": "USA",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "LAST BOLSHEVIK, THE",
+      "director": "Chris Marker",
+      "year": 1993,
+      "country": "France-Finland",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "TIME OF THE GYPSIES",
+      "director": "Emir Kusturica",
+      "year": 1989,
+      "country": "Yugoslavia",
+      "length": 142,
+      "color": "Col"
+    },
+    {
+      "title": "BERLIN: SYMPHONY OF A GREAT CITY",
+      "director": "Walter Ruttmann",
+      "year": 1927,
+      "country": "Germany",
+      "length": 65,
+      "color": "BW"
+    },
+    {
+      "title": "OTHELLO",
+      "director": "Orson Welles",
+      "year": 1952,
+      "country": "Italy-France-Morocco-USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "OUTSKIRTS",
+      "director": "Boris Barnet",
+      "year": 1933,
+      "country": "USSR",
+      "length": 98,
+      "color": "BW"
+    },
+    {
+      "title": "GREGORY'S GIRL",
+      "director": "Bill Forsyth",
+      "year": 1980,
+      "country": "UK",
+      "length": 91,
+      "color": "Col"
+    },
+    {
+      "title": "DOG STAR MAN",
+      "director": "Stan Brakhage",
+      "year": 1964,
+      "country": "USA",
+      "length": 75,
+      "color": "Col"
+    },
+    {
+      "title": "BÊTE HUMAINE, LA",
+      "director": "Jean Renoir",
+      "year": 1938,
+      "country": "France",
+      "length": 99,
+      "color": "BW"
+    },
+    {
+      "title": "COOK, THE THIEF, HIS WIFE & HER LOVER, THE",
+      "director": "Peter Greenaway",
+      "year": 1989,
+      "country": "UK-France",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "ENTER THE DRAGON",
+      "director": "Robert Clouse",
+      "year": 1973,
+      "country": "USA-Hong Kong",
+      "length": 97,
+      "color": "Col"
+    },
+    {
+      "title": "MISFITS, THE",
+      "director": "John Huston",
+      "year": 1961,
+      "country": "USA",
+      "length": 124,
+      "color": "BW"
+    },
+    {
+      "title": "BOOT, DAS",
+      "director": "Wolfgang Petersen",
+      "year": 1981,
+      "country": "West Germany",
+      "length": 149,
+      "color": "Col"
+    },
+    {
+      "title": "LÉON",
+      "director": "Luc Besson",
+      "year": 1994,
+      "country": "France",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "FORBIDDEN PLANET",
+      "director": "Fred M. Wilcox",
+      "year": 1956,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "OUTLAW JOSEY WALES, THE",
+      "director": "Clint Eastwood",
+      "year": 1976,
+      "country": "USA",
+      "length": 135,
+      "color": "Col"
+    },
+    {
+      "title": "ARABIAN NIGHTS",
+      "director": "Pier Paolo Pasolini",
+      "year": 1974,
+      "country": "Italy-France",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "M*A*S*H",
+      "director": "Robert Altman",
+      "year": 1970,
+      "country": "USA",
+      "length": 116,
+      "color": "Col"
+    },
+    {
+      "title": "AU REVOIR LES ENFANTS",
+      "director": "Louis Malle",
+      "year": 1987,
+      "country": "France",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "DRACULA",
+      "director": "Terence Fisher",
+      "year": 1958,
+      "country": "UK",
+      "length": 82,
+      "color": "Col"
+    },
+    {
+      "title": "PHANTOM CARRIAGE, THE",
+      "director": "Victor Sjöström",
+      "year": 1921,
+      "country": "Sweden",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "THEY WERE EXPENDABLE",
+      "director": "John Ford",
+      "year": 1945,
+      "country": "USA",
+      "length": 135,
+      "color": "BW"
+    },
+    {
+      "title": "ELEVATOR TO THE GALLOWS",
+      "director": "Louis Malle",
+      "year": 1958,
+      "country": "France",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "NUIT DU CARREFOUR, LA",
+      "director": "Jean Renoir",
+      "year": 1932,
+      "country": "France",
+      "length": 73,
+      "color": "BW"
+    },
+    {
+      "title": "FELLINI'S CASANOVA",
+      "director": "Federico Fellini",
+      "year": 1976,
+      "country": "Italy",
+      "length": 158,
+      "color": "Col"
+    },
+    {
+      "title": "MOI, UN NOIR",
+      "director": "Jean Rouch",
+      "year": 1958,
+      "country": "France",
+      "length": 70,
+      "color": "Col"
+    },
+    {
+      "title": "CRIMINAL LIFE OF ARCHIBALDO DE LA CRUZ, THE",
+      "director": "Luis Buñuel",
+      "year": 1955,
+      "country": "Mexico",
+      "length": 91,
+      "color": "BW"
+    },
+    {
+      "title": "TROU, LE",
+      "director": "Jacques Becker",
+      "year": 1960,
+      "country": "France-Italy",
+      "length": 140,
+      "color": "BW"
+    },
+    {
+      "title": "INCREDIBLE SHRINKING MAN, THE",
+      "director": "Jack Arnold",
+      "year": 1957,
+      "country": "USA",
+      "length": 81,
+      "color": "BW"
+    },
+    {
+      "title": "MON ONCLE D'AMÉRIQUE",
+      "director": "Alain Resnais",
+      "year": 1980,
+      "country": "France",
+      "length": 123,
+      "color": "Col"
+    },
+    {
+      "title": "42ND STREET",
+      "director": "Lloyd Bacon",
+      "year": 1933,
+      "country": "USA",
+      "length": 89,
+      "color": "BW"
+    },
+    {
+      "title": "ED WOOD",
+      "director": "Tim Burton",
+      "year": 1994,
+      "country": "USA",
+      "length": 124,
+      "color": "BW"
+    },
+    {
+      "title": "CARO DIARIO",
+      "director": "Nanni Moretti",
+      "year": 1994,
+      "country": "Italy-France",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "ENFANCE NUE, L'",
+      "director": "Maurice Pialat",
+      "year": 1968,
+      "country": "France",
+      "length": 80,
+      "color": "Col"
+    },
+    {
+      "title": "THEY LIVE",
+      "director": "John Carpenter",
+      "year": 1988,
+      "country": "USA",
+      "length": 93,
+      "color": "Col"
+    },
+    {
+      "title": "DIVING BELL AND THE BUTTERFLY, THE",
+      "director": "Julian Schnabel",
+      "year": 2007,
+      "country": "France-USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "SHOLAY",
+      "director": "Ramesh Sippy",
+      "year": 1975,
+      "country": "India",
+      "length": 162,
+      "color": "Col"
+    },
+    {
+      "title": "CRÍA CUERVOS",
+      "director": "Carlos Saura",
+      "year": 1976,
+      "country": "Spain",
+      "length": 110,
+      "color": "Col"
+    },
+    {
+      "title": "ROPE",
+      "director": "Alfred Hitchcock",
+      "year": 1948,
+      "country": "USA",
+      "length": 80,
+      "color": "Col"
+    },
+    {
+      "title": "FLOATING WEEDS",
+      "director": "Yasujiro Ozu",
+      "year": 1959,
+      "country": "Japan",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "SATURDAY NIGHT FEVER",
+      "director": "John Badham",
+      "year": 1977,
+      "country": "USA",
+      "length": 119,
+      "color": "Col"
+    },
+    {
+      "title": "RIDE THE HIGH COUNTRY",
+      "director": "Sam Peckinpah",
+      "year": 1962,
+      "country": "USA",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "JULIET OF THE SPIRITS",
+      "director": "Federico Fellini",
+      "year": 1965,
+      "country": "Italy",
+      "length": 148,
+      "color": "Col"
+    },
+    {
+      "title": "SHERMAN'S MARCH",
+      "director": "Ross McElwee",
+      "year": 1985,
+      "country": "USA",
+      "length": 157,
+      "color": "Col"
+    },
+    {
+      "title": "TO LIVE",
+      "director": "Zhang Yimou",
+      "year": 1994,
+      "country": "China-Hong Kong",
+      "length": 145,
+      "color": "Col"
+    },
+    {
+      "title": "KNIFE IN THE WATER",
+      "director": "Roman Polanski",
+      "year": 1962,
+      "country": "Poland",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "HÔTEL TERMINUS",
+      "director": "Marcel Ophüls",
+      "year": 1987,
+      "country": "USA",
+      "length": 267,
+      "color": "Col"
+    },
+    {
+      "title": "MILDRED PIERCE",
+      "director": "Michael Curtiz",
+      "year": 1945,
+      "country": "USA",
+      "length": 109,
+      "color": "BW"
+    },
+    {
+      "title": "HART OF LONDON, THE",
+      "director": "Jack Chambers",
+      "year": 1970,
+      "country": "Canada",
+      "length": 80,
+      "color": "Col-BW"
+    },
+    {
+      "title": "JOUR SE LÈVE, LE",
+      "director": "Marcel Carné",
+      "year": 1939,
+      "country": "France",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "GET CARTER",
+      "director": "Mike Hodges",
+      "year": 1971,
+      "country": "UK",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "BLACK ORPHEUS",
+      "director": "Marcel Camus",
+      "year": 1959,
+      "country": "Brazil-France",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "GENTLEMEN PREFER BLONDES",
+      "director": "Howard Hawks",
+      "year": 1953,
+      "country": "USA",
+      "length": 91,
+      "color": "Col"
+    },
+    {
+      "title": "TOPSY-TURVY",
+      "director": "Mike Leigh",
+      "year": 1999,
+      "country": "UK-USA",
+      "length": 160,
+      "color": "Col"
+    },
+    {
+      "title": "REDS",
+      "director": "Warren Beatty",
+      "year": 1981,
+      "country": "USA",
+      "length": 200,
+      "color": "Col"
+    },
+    {
+      "title": "LUDWIG",
+      "director": "Luchino Visconti",
+      "year": 1973,
+      "country": "Italy-France-West Germany",
+      "length": 235,
+      "color": "Col"
+    },
+    {
+      "title": "TEN",
+      "director": "Abbas Kiarostami",
+      "year": 2002,
+      "country": "France-Iran",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "SARABAND",
+      "director": "Ingmar Bergman",
+      "year": 2003,
+      "country": "Sweden-Denmark-Norway-Italy-Finland-Germany-Austria",
+      "length": 120,
+      "color": "Col"
+    },
+    {
+      "title": "BETTER TOMORROW, A",
+      "director": "John Woo",
+      "year": 1986,
+      "country": "Hong Kong",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "MAMMA ROMA",
+      "director": "Pier Paolo Pasolini",
+      "year": 1962,
+      "country": "Italy",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "ODD MAN OUT",
+      "director": "Carol Reed",
+      "year": 1947,
+      "country": "UK",
+      "length": 115,
+      "color": "BW"
+    },
+    {
+      "title": "TOUCHEZ PAS AU GRISBI",
+      "director": "Jacques Becker",
+      "year": 1954,
+      "country": "France",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "BROADCAST NEWS",
+      "director": "James L. Brooks",
+      "year": 1987,
+      "country": "USA",
+      "length": 133,
+      "color": "Col"
+    },
+    {
+      "title": "BAD TIMING",
+      "director": "Nicolas Roeg",
+      "year": 1980,
+      "country": "UK",
+      "length": 129,
+      "color": "Col"
+    },
+    {
+      "title": "DEEP RED",
+      "director": "Dario Argento",
+      "year": 1975,
+      "country": "Italy",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "END OF SUMMER, THE",
+      "director": "Yasujiro Ozu",
+      "year": 1961,
+      "country": "Japan",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "CHIENNE, LA",
+      "director": "Jean Renoir",
+      "year": 1931,
+      "country": "France",
+      "length": 95,
+      "color": "BW"
+    },
+    {
+      "title": "GILDA",
+      "director": "Charles Vidor",
+      "year": 1946,
+      "country": "USA",
+      "length": 110,
+      "color": "BW"
+    },
+    {
+      "title": "SPRING, SUMMER, AUTUMN, WINTER… AND SPRING",
+      "director": "Kim Ki-duk",
+      "year": 2003,
+      "country": "South Korea-Germany",
+      "length": 103,
+      "color": "Col"
+    },
+    {
+      "title": "BEFORE SUNRISE",
+      "director": "Richard Linklater",
+      "year": 1995,
+      "country": "USA",
+      "length": 101,
+      "color": "Col"
+    },
+    {
+      "title": "SECOND BREATH",
+      "director": "Jean-Pierre Melville",
+      "year": 1966,
+      "country": "France",
+      "length": 144,
+      "color": "BW"
+    },
+    {
+      "title": "AGUAESPEJO GRANADINO",
+      "director": "José Val del Omar",
+      "year": 1955,
+      "country": "Spain",
+      "length": 21,
+      "color": "BW"
+    },
+    {
+      "title": "ANATAHAN",
+      "director": "Josef von Sternberg",
+      "year": 1953,
+      "country": "Japan",
+      "length": 92,
+      "color": "BW"
+    },
+    {
+      "title": "O LUCKY MAN!",
+      "director": "Lindsay Anderson",
+      "year": 1973,
+      "country": "UK",
+      "length": 173,
+      "color": "Col"
+    },
+    {
+      "title": "KILL BILL VOL. 1",
+      "director": "Quentin Tarantino",
+      "year": 2003,
+      "country": "USA",
+      "length": 111,
+      "color": "Col-BW"
+    },
+    {
+      "title": "TWIN PEAKS: FIRE WALK WITH ME",
+      "director": "David Lynch",
+      "year": 1992,
+      "country": "USA",
+      "length": 135,
+      "color": "Col"
+    },
+    {
+      "title": "SUN SHINES BRIGHT, THE",
+      "director": "John Ford",
+      "year": 1953,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "GOOD MORNING",
+      "director": "Yasujiro Ozu",
+      "year": 1959,
+      "country": "Japan",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "HUMANITY AND PAPER BALLOONS",
+      "director": "Sadao Yamanaka",
+      "year": 1937,
+      "country": "Japan",
+      "length": 86,
+      "color": "BW"
+    },
+    {
+      "title": "ON THE TOWN",
+      "director": "Stanley Donen & Gene Kelly",
+      "year": 1949,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "PAPER MOON",
+      "director": "Peter Bogdanovich",
+      "year": 1973,
+      "country": "USA",
+      "length": 102,
+      "color": "BW"
+    },
+    {
+      "title": "3 WOMEN",
+      "director": "Robert Altman",
+      "year": 1977,
+      "country": "USA",
+      "length": 125,
+      "color": "Col"
+    },
+    {
+      "title": "LORD OF THE RINGS: THE RETURN OF THE KING, THE",
+      "director": "Peter Jackson",
+      "year": 2003,
+      "country": "New Zealand-USA",
+      "length": 201,
+      "color": "Col"
+    },
+    {
+      "title": "BALLAD OF NARAYAMA, THE",
+      "director": "Shohei Imamura",
+      "year": 1983,
+      "country": "Japan",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "CARNIVAL OF SOULS",
+      "director": "Herk Harvey",
+      "year": 1962,
+      "country": "USA",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "DUEL IN THE SUN",
+      "director": "King Vidor",
+      "year": 1946,
+      "country": "USA",
+      "length": 130,
+      "color": "Col"
+    },
+    {
+      "title": "IN PRAISE OF LOVE",
+      "director": "Jean-Luc Godard",
+      "year": 2001,
+      "country": "France",
+      "length": 97,
+      "color": "Col-BW"
+    },
+    {
+      "title": "STRANGERS WHEN WE MEET",
+      "director": "Richard Quine",
+      "year": 1960,
+      "country": "USA",
+      "length": 117,
+      "color": "Col"
+    },
+    {
+      "title": "ADVENTURES OF PRINCE ACHMED, THE",
+      "director": "Lotte Reiniger",
+      "year": 1926,
+      "country": "Germany",
+      "length": 65,
+      "color": "BW"
+    },
+    {
+      "title": "FEMALE TROUBLE",
+      "director": "John Waters",
+      "year": 1974,
+      "country": "USA",
+      "length": 95,
+      "color": "Col"
+    },
+    {
+      "title": "LOVE AND DEATH",
+      "director": "Woody Allen",
+      "year": 1975,
+      "country": "USA",
+      "length": 82,
+      "color": "Col"
+    },
+    {
+      "title": "NUTTY PROFESSOR, THE",
+      "director": "Jerry Lewis",
+      "year": 1963,
+      "country": "USA",
+      "length": 107,
+      "color": "Col"
+    },
+    {
+      "title": "THING FROM ANOTHER WORLD, THE",
+      "director": "Christian Nyby & Howard Hawks",
+      "year": 1951,
+      "country": "USA",
+      "length": 87,
+      "color": "BW"
+    },
+    {
+      "title": "PÉPÉ LE MOKO",
+      "director": "Julien Duvivier",
+      "year": 1937,
+      "country": "France",
+      "length": 94,
+      "color": "BW"
+    },
+    {
+      "title": "GRIN WITHOUT A CAT, A",
+      "director": "Chris Marker",
+      "year": 1977,
+      "country": "France",
+      "length": 240,
+      "color": "Col-BW"
+    },
+    {
+      "title": "ZABRISKIE POINT",
+      "director": "Michelangelo Antonioni",
+      "year": 1970,
+      "country": "USA",
+      "length": 112,
+      "color": "Col"
+    },
+    {
+      "title": "RED BEARD",
+      "director": "Akira Kurosawa",
+      "year": 1965,
+      "country": "Japan",
+      "length": 185,
+      "color": "BW"
+    },
+    {
+      "title": "SCARECROW",
+      "director": "Jerry Schatzberg",
+      "year": 1973,
+      "country": "USA",
+      "length": 108,
+      "color": "Col"
+    },
+    {
+      "title": "RECKLESS MOMENT, THE",
+      "director": "Max Ophüls",
+      "year": 1949,
+      "country": "USA",
+      "length": 82,
+      "color": "BW"
+    },
+    {
+      "title": "NATIONAL LAMPOON'S ANIMAL HOUSE",
+      "director": "John Landis",
+      "year": 1978,
+      "country": "USA",
+      "length": 109,
+      "color": "Col"
+    },
+    {
+      "title": "CUL-DE-SAC",
+      "director": "Roman Polanski",
+      "year": 1966,
+      "country": "UK",
+      "length": 111,
+      "color": "BW"
+    },
+    {
+      "title": "TALE OF THE WIND, A",
+      "director": "Joris Ivens",
+      "year": 1988,
+      "country": "France-UK-West Germany-Netherlands",
+      "length": 80,
+      "color": "Col"
+    },
+    {
+      "title": "BAD LIEUTENANT",
+      "director": "Abel Ferrara",
+      "year": 1992,
+      "country": "USA",
+      "length": 98,
+      "color": "Col"
+    },
+    {
+      "title": "EXCALIBUR",
+      "director": "John Boorman",
+      "year": 1981,
+      "country": "UK",
+      "length": 140,
+      "color": "Col"
+    },
+    {
+      "title": "SHANGHAI EXPRESS",
+      "director": "Josef von Sternberg",
+      "year": 1932,
+      "country": "USA",
+      "length": 80,
+      "color": "BW"
+    },
+    {
+      "title": "STROSZEK",
+      "director": "Werner Herzog",
+      "year": 1977,
+      "country": "West Germany",
+      "length": 115,
+      "color": "Col"
+    },
+    {
+      "title": "47 RONIN, THE",
+      "director": "Kenji Mizoguchi",
+      "year": 1941,
+      "country": "Japan",
+      "length": 219,
+      "color": "BW"
+    },
+    {
+      "title": "SIMON OF THE DESERT",
+      "director": "Luis Buñuel",
+      "year": 1965,
+      "country": "Mexico",
+      "length": 43,
+      "color": "BW"
+    },
+    {
+      "title": "HENRY V",
+      "director": "Laurence Olivier",
+      "year": 1944,
+      "country": "UK",
+      "length": 137,
+      "color": "Col"
+    },
+    {
+      "title": "SARAGOSSA MANUSCRIPT, THE",
+      "director": "Wojciech Has",
+      "year": 1965,
+      "country": "Poland",
+      "length": 182,
+      "color": "BW"
+    },
+    {
+      "title": "STAND BY ME",
+      "director": "Rob Reiner",
+      "year": 1986,
+      "country": "USA",
+      "length": 87,
+      "color": "Col"
+    },
+    {
+      "title": "NOT RECONCILED",
+      "director": "Jean-Marie Straub",
+      "year": 1965,
+      "country": "West Germany",
+      "length": 51,
+      "color": "BW"
+    },
+    {
+      "title": "YOL",
+      "director": "Serif Gören & Yilmaz Güney",
+      "year": 1982,
+      "country": "Turkey-Switzerland-France",
+      "length": 114,
+      "color": "Col"
+    },
+    {
+      "title": "EL DORADO",
+      "director": "Howard Hawks",
+      "year": 1967,
+      "country": "USA",
+      "length": 126,
+      "color": "Col"
+    },
+    {
+      "title": "PHANTOM OF THE PARADISE",
+      "director": "Brian De Palma",
+      "year": 1974,
+      "country": "USA",
+      "length": 92,
+      "color": "Col"
+    },
+    {
+      "title": "BRIDGES OF MADISON COUNTY, THE",
+      "director": "Clint Eastwood",
+      "year": 1995,
+      "country": "USA",
+      "length": 135,
+      "color": "Col"
+    },
+    {
+      "title": "HUMANITÉ, L'",
+      "director": "Bruno Dumont",
+      "year": 1999,
+      "country": "France",
+      "length": 141,
+      "color": "Col"
+    },
+    {
+      "title": "HELLZAPOPPIN'",
+      "director": "H.C. Potter",
+      "year": 1941,
+      "country": "USA",
+      "length": 84,
+      "color": "BW"
+    },
+    {
+      "title": "CAIRO STATION",
+      "director": "Youssef Chahine",
+      "year": 1958,
+      "country": "Egypt",
+      "length": 76,
+      "color": "BW"
+    },
+    {
+      "title": "CHIKAMATSU MONOGATARI",
+      "director": "Kenji Mizoguchi",
+      "year": 1954,
+      "country": "Japan",
+      "length": 100,
+      "color": "BW"
+    },
+    {
+      "title": "SUBARNAREKHA",
+      "director": "Ritwik Ghatak",
+      "year": 1965,
+      "country": "India",
+      "length": 143,
+      "color": "BW"
+    },
+    {
+      "title": "HÄXAN",
+      "director": "Benjamin Christensen",
+      "year": 1922,
+      "country": "Sweden",
+      "length": 83,
+      "color": "BW"
+    },
+    {
+      "title": "HOLIDAY",
+      "director": "George Cukor",
+      "year": 1938,
+      "country": "USA",
+      "length": 93,
+      "color": "BW"
+    },
+    {
+      "title": "DIARY FOR TIMOTHY, A",
+      "director": "Humphrey Jennings",
+      "year": 1945,
+      "country": "UK",
+      "length": 40,
+      "color": "BW"
+    },
+    {
+      "title": "MAN WHO FELL TO EARTH, THE",
+      "director": "Nicolas Roeg",
+      "year": 1976,
+      "country": "UK",
+      "length": 140,
+      "color": "Col"
+    },
+    {
+      "title": "LONELINESS OF THE LONG DISTANCE RUNNER, THE",
+      "director": "Tony Richardson",
+      "year": 1962,
+      "country": "UK",
+      "length": 103,
+      "color": "BW"
+    },
+    {
+      "title": "OUTER SPACE",
+      "director": "Peter Tscherkassky",
+      "year": 1999,
+      "country": "Austria",
+      "length": 10,
+      "color": "BW"
+    },
+    {
+      "title": "BOUCHER, LE",
+      "director": "Claude Chabrol",
+      "year": 1970,
+      "country": "France-Italy",
+      "length": 94,
+      "color": "Col"
+    },
+    {
+      "title": "TOO EARLY, TOO LATE",
+      "director": "Jean-Marie Straub & Danièle Huillet",
+      "year": 1981,
+      "country": "Germany",
+      "length": 100,
+      "color": "Col"
+    },
+    {
+      "title": "DESIGN FOR LIVING",
+      "director": "Ernst Lubitsch",
+      "year": 1933,
+      "country": "USA",
+      "length": 90,
+      "color": "BW"
+    },
+    {
+      "title": "FAT GIRL",
+      "director": "Catherine Breillat",
+      "year": 2001,
+      "country": "France-Italy",
+      "length": 86,
+      "color": "Col"
+    }
+  ]
+}
