@@ -1,11 +1,15 @@
 #!/usr/bin/env node
 
 const fs = require('fs')
+const path = require('path')
 const JustWatch = require('justwatch-api')
 
 function readData() {
   try {
-    const rawdata = fs.readFileSync('./theyshootpictures-2020.json', 'utf8')
+    const rawdata = fs.readFileSync(
+      path.join(__dirname, './theyshootpictures-2020.json'),
+      'utf8',
+    )
     return JSON.parse(rawdata)
   } catch (e) {
     console.log(e)
