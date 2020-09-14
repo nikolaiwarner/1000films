@@ -51,11 +51,15 @@ async function getFilm({ number }) {
 
       console.log('Available at:')
       offers.forEach((offer) => {
-        let price = ''
-        if (offer.retail_price) {
-          price = ` - $${offer.retail_price}`
+        if (offer.provider) {
+          let price = ''
+          if (offer.retail_price) {
+            price = ` - $${offer.retail_price}`
+          }
+          console.log(
+            `- ${offer.provider.clear_name} - ${offer.presentation_type}${price}`,
+          )
         }
-        console.log(`- ${offer.provider.clear_name} - ${offer.presentation_type}${price}`)
       })
     }
     return searchResult

@@ -1,6 +1,6 @@
 {
   "name": "1000films",
-  "version": "1000.2020.2",
+  "version": "1000.2020.3",
   "main": "index.js",
   "license": "MIT",
   "bin": "index.js",
